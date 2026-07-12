@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072263191598628864"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2072263204647125337",
+    "created_at": "2026-07-01T10:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072263204647125337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kz3KfJjNuB",
+          "end": 25,
+          "expanded_url": "https://x.com/KK_Paqu/status/2072263204647125337/photo/1",
+          "media_key": "3_2072263191598628864",
+          "start": 2,
+          "url": "https://t.co/kz3KfJjNuB"
+        },
+        {
+          "display_url": "x.com/worstcat/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/worstcat/status/2071615813791121484",
+          "start": 26,
+          "url": "https://t.co/seL6WnXVu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072263204647125337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071615813791121484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "耶 https://t.co/kz3KfJjNuB https://t.co/seL6WnXVu2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2072263191598628864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIoZLhagAAvhaF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1180,
+        "media_key": "3_2071615809269661696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_bmkaaAAAcziz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1180,
+        "media_key": "3_2071615811291394048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_bmr8bMAAYtgi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072263191598628864"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2072263204647125337",
+        "created_at": "2026-07-01T10:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072263204647125337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kz3KfJjNuB",
+              "end": 25,
+              "expanded_url": "https://x.com/KK_Paqu/status/2072263204647125337/photo/1",
+              "media_key": "3_2072263191598628864",
+              "start": 2,
+              "url": "https://t.co/kz3KfJjNuB"
+            },
+            {
+              "display_url": "x.com/worstcat/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/worstcat/status/2071615813791121484",
+              "start": 26,
+              "url": "https://t.co/seL6WnXVu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072263204647125337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071615813791121484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耶 https://t.co/kz3KfJjNuB https://t.co/seL6WnXVu2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071615809269661696",
+            "3_2071615811291394048"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2071615813791121484",
+        "created_at": "2026-06-29T15:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071615813791121484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kx0cPNLnqA",
+              "end": 83,
+              "expanded_url": "https://x.com/WorstCat/status/2071615813791121484/photo/1",
+              "media_key": "3_2071615809269661696",
+              "start": 60,
+              "url": "https://t.co/kx0cPNLnqA"
+            },
+            {
+              "display_url": "pic.x.com/kx0cPNLnqA",
+              "end": 83,
+              "expanded_url": "https://x.com/WorstCat/status/2071615813791121484/photo/1",
+              "media_key": "3_2071615811291394048",
+              "start": 60,
+              "url": "https://t.co/kx0cPNLnqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071615813791121484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2300,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合法遵守医嘱使用药物bingo常见版，都是可以线下或者网购合法获取到的~(遵守医嘱使用药物，拒绝药物滥用) ⑅˃◡˂⑅ https://t.co/kx0cPNLnqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 208,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 687
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 47,
+          "like_count": 10711,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 1580
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

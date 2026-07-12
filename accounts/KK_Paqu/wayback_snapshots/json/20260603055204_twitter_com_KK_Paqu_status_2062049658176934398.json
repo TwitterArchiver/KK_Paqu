@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062049642297376768"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2062049658176934398",
+    "created_at": "2026-06-03T05:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062049658176934398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VQ86j7UAWX",
+          "end": 35,
+          "expanded_url": "https://x.com/KK_Paqu/status/2062049658176934398/photo/1",
+          "media_key": "3_2062049642297376768",
+          "start": 12,
+          "url": "https://t.co/VQ86j7UAWX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062049658176934398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说完这个我就被举报了 https://t.co/VQ86j7UAWX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062049658176934398].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062049658176934398",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062049658176934398"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062049642297376768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3fOXZbQAAw5zw.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 135,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 163
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

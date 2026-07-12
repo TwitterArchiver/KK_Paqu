@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2061910198701404618",
+    "created_at": "2026-06-03T00:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061966351640698980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1603310799618859008",
+          "start": 0,
+          "username": "sanyangyunyun"
+        },
+        {
+          "end": 25,
+          "id": "2059326143640276992",
+          "start": 15,
+          "username": "Huhiosc3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061966351640698980",
+    "in_reply_to_user_id": "1603310799618859008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061962886172561611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanyangyunyun @Huhiosc3x 已经…燃尽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061910198701404618",
+        "created_at": "2026-06-03T00:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061966351640698980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1603310799618859008",
+              "start": 0,
+              "username": "sanyangyunyun"
+            },
+            {
+              "end": 25,
+              "id": "2059326143640276992",
+              "start": 15,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061966351640698980",
+        "in_reply_to_user_id": "1603310799618859008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061962886172561611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanyangyunyun @Huhiosc3x 已经…燃尽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603310799618859008",
+        "conversation_id": "2061910198701404618",
+        "created_at": "2026-06-03T00:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061962886172561611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733217384050384896",
+              "start": 0,
+              "username": "KK_Paqu"
+            },
+            {
+              "end": 19,
+              "id": "2059326143640276992",
+              "start": 9,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061962886172561611",
+        "in_reply_to_user_id": "1733217384050384896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061923093015314709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_Paqu @Huhiosc3x 手工达人！（草怎么3.0肉鸦了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 127,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 135
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:48:14.000Z",
+        "description": "只会被自己的fo看到的透明人😡✟od✟INFP✟不键政👿",
+        "id": "1603310799618859008",
+        "name": "云智风乃",
+        "pinned_tweet_id": "1792760945879761121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060298141623271424/i-bZQQ1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 341,
+          "like_count": 17232,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 7447
+        },
+        "username": "sanyangyunyun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜同类互fo大欢迎｜我有点笨笨的会直关，如果冒犯了可以移fo……｜非必要不回私信啦｜内容比较阴暗负面……有药物私生活混乱描写但不会有露骨照片和do的描写……只有心理描写一般是负能量｜生理女心理女，友跨｜",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 80,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 216
+        },
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

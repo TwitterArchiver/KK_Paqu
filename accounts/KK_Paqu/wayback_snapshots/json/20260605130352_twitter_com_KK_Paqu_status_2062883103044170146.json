@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062254614045425664"
+      ],
+      "media_source_tweet_id": [
+        "2062254616402669921"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2062883103044170146",
+    "created_at": "2026-06-05T13:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062883103044170146"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 18,
+          "tag": "sydneythefaithful"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "dol"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047228170747744256",
+          "start": 3,
+          "username": "plushheart71"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/elB7gZG5b5",
+          "end": 67,
+          "expanded_url": "https://x.com/plushheart71/status/2062254616402669921/photo/1",
+          "media_key": "3_2062254614045425664",
+          "start": 44,
+          "url": "https://t.co/elB7gZG5b5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062883103044170146",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062254616402669921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plushheart71: #sydneythefaithful #dol 😞 https://t.co/elB7gZG5b5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062254614045425664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6ZpSqWgAARwTw.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062254614045425664"
+          ],
+          "media_source_tweet_id": [
+            "2062254616402669921"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2062883103044170146",
+        "created_at": "2026-06-05T13:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062883103044170146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 18,
+              "tag": "sydneythefaithful"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "dol"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047228170747744256",
+              "start": 3,
+              "username": "plushheart71"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/elB7gZG5b5",
+              "end": 67,
+              "expanded_url": "https://x.com/plushheart71/status/2062254616402669921/photo/1",
+              "media_key": "3_2062254614045425664",
+              "start": 44,
+              "url": "https://t.co/elB7gZG5b5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062883103044170146",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062254616402669921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plushheart71: #sydneythefaithful #dol 😞 https://t.co/elB7gZG5b5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062254614045425664"
+          ]
+        },
+        "author_id": "2047228170747744256",
+        "conversation_id": "2062254616402669921",
+        "created_at": "2026-06-03T19:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062254616402669921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "sydneythefaithful"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "dol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/elB7gZG5b5",
+              "end": 49,
+              "expanded_url": "https://x.com/plushheart71/status/2062254616402669921/photo/1",
+              "media_key": "3_2062254614045425664",
+              "start": 26,
+              "url": "https://t.co/elB7gZG5b5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062254616402669921",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 11846,
+          "like_count": 1835,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "reply_settings": "everyone",
+        "text": "#sydneythefaithful #dol 😞 https://t.co/elB7gZG5b5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 140,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 206
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T08:17:05.000Z",
+        "description": "18+ | 🇵🇭/🇨🇳 | gia/gee | any pronouns !",
+        "id": "2047228170747744256",
+        "name": "brokenplushheart",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059708086932140032/R4NLQcjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 16,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "username": "plushheart71",
+        "verified": false
+      }
+    ]
+  }
+}

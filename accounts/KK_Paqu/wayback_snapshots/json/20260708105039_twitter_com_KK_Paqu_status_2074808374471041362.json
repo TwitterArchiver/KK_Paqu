@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074513114905849856"
+      ],
+      "media_source_tweet_id": [
+        "2074513117372149878"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2074808374471041362",
+    "created_at": "2026-07-08T10:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074808374471041362"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 33,
+          "tag": "DegreesofLewdity"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "DoL"
+        },
+        {
+          "end": 66,
+          "start": 56,
+          "tag": "GreatHawk"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2071658382935883776",
+          "start": 3,
+          "username": "dol_onlyS2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N4aA4HbTZ9",
+          "end": 90,
+          "expanded_url": "https://x.com/dol_onlyS2/status/2074513117372149878/photo/1",
+          "media_key": "3_2074513114905849856",
+          "start": 67,
+          "url": "https://t.co/N4aA4HbTZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074808374471041362",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074513117372149878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dol_onlyS2: 하늘을 같이 날자, 와이프.\n\n#DegreesofLewdity #DoL #GreatHawk https://t.co/N4aA4HbTZ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2074513114905849856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMomr8_aMAA-7GN.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074513114905849856"
+          ],
+          "media_source_tweet_id": [
+            "2074513117372149878"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2074808374471041362",
+        "created_at": "2026-07-08T10:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074808374471041362"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 33,
+              "tag": "DegreesofLewdity"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "DoL"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "GreatHawk"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2071658382935883776",
+              "start": 3,
+              "username": "dol_onlyS2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4aA4HbTZ9",
+              "end": 90,
+              "expanded_url": "https://x.com/dol_onlyS2/status/2074513117372149878/photo/1",
+              "media_key": "3_2074513114905849856",
+              "start": 67,
+              "url": "https://t.co/N4aA4HbTZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074808374471041362",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074513117372149878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dol_onlyS2: 하늘을 같이 날자, 와이프.\n\n#DegreesofLewdity #DoL #GreatHawk https://t.co/N4aA4HbTZ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074513114905849856"
+          ]
+        },
+        "author_id": "2071658382935883776",
+        "conversation_id": "2074513117372149878",
+        "created_at": "2026-07-07T15:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074513117372149878"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 17,
+              "tag": "DegreesofLewdity"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "DoL"
+            },
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "GreatHawk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4aA4HbTZ9",
+              "end": 74,
+              "expanded_url": "https://x.com/dol_onlyS2/status/2074513117372149878/photo/1",
+              "media_key": "3_2074513114905849856",
+              "start": 51,
+              "url": "https://t.co/N4aA4HbTZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074513117372149878",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1333,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "하늘을 같이 날자, 와이프.\n\n#DegreesofLewdity #DoL #GreatHawk https://t.co/N4aA4HbTZ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 220,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T18:15:05.000Z",
+        "description": "돌겜하다 못참겠어서 계정만듬\n\n성인된지 한참 지났습니다 / 호칭은 갓이나 아무렇게나 불러주세요🩷",
+        "id": "2071658382935883776",
+        "name": "오마이갓",
+        "pinned_tweet_id": "2072251592762671214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071659529058832384/abl2Dng3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 30,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "dol_onlyS2",
+        "verified": false
+      }
+    ]
+  }
+}

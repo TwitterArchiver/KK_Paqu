@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2063628436086931965",
+    "created_at": "2026-06-07T14:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063628436086931965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 59,
+          "id": "946769046460030981",
+          "start": 49,
+          "username": "DoggCivet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063628436086931965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我前朋友和前朋友因为我自杀跑路了 lyn和xzc其实你一直维护他们说我朋友一文不值的时候你也很可笑@DoggCivet"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2063628436086931965",
+        "created_at": "2026-06-07T14:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063628436086931965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 59,
+              "id": "946769046460030981",
+              "start": 49,
+              "username": "DoggCivet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063628436086931965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我前朋友和前朋友因为我自杀跑路了 lyn和xzc其实你一直维护他们说我朋友一文不值的时候你也很可笑@DoggCivet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 160,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 320
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-29T15:45:05.000Z",
+        "description": "开心一点嘛(*^ ^ | \n画、猫、游戏和生活 |\n  20↑ | 日常小号  @StreetCattttt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "StreetCattttt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/DoggsPatheticL…",
+                "end": 23,
+                "expanded_url": "https://t.me/DoggsPatheticLife",
+                "start": 0,
+                "url": "https://t.co/XLjMU5pe0W"
+              }
+            ]
+          }
+        },
+        "id": "946769046460030981",
+        "location": "Boulogne-Billancourt, France",
+        "name": "超載檸檬糖",
+        "pinned_tweet_id": "2005209449833926978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909636599127982080/TwYFDa2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 369,
+          "like_count": 17393,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3835
+        },
+        "url": "https://t.co/XLjMU5pe0W",
+        "username": "DoggCivet",
+        "verified": false
+      }
+    ]
+  }
+}

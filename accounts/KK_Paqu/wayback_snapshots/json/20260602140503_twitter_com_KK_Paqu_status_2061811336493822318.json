@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2061811336493822318",
+    "created_at": "2026-06-02T14:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061811336493822318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kk_paqu/status…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/kk_paqu/status/2061799091495952461",
+          "start": 71,
+          "url": "https://t.co/Jk9P4QLAGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061811336493822318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061799091495952461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没有炒作过啊\n从头到尾我只是在努力活着\nicu大家那天总共给我打了七百我都交给医院了\n我住院三次\n右手动脉穿刺 洗胃 精卫 我很想活下来吗 https://t.co/Jk9P4QLAGr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061811336493822318",
+        "created_at": "2026-06-02T14:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061811336493822318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kk_paqu/status…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/kk_paqu/status/2061799091495952461",
+              "start": 71,
+              "url": "https://t.co/Jk9P4QLAGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061811336493822318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061799091495952461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有炒作过啊\n从头到尾我只是在努力活着\nicu大家那天总共给我打了七百我都交给医院了\n我住院三次\n右手动脉穿刺 洗胃 精卫 我很想活下来吗 https://t.co/Jk9P4QLAGr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061799091495952461",
+        "created_at": "2026-06-02T13:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061799091495952461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061799091495952461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是7月就可以再次离开了\n我的死亡经历也没了\n没人记得我的痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 74,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 97
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

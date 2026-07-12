@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2072623153096863744"
+      ],
+      "media_source_tweet_id": [
+        "2072623222038675762"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073022622460436789",
+    "created_at": "2026-07-03T12:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073022622460436789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048512493824217089",
+          "start": 3,
+          "username": "kai_lebb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BNChtvA5iI",
+          "end": 64,
+          "expanded_url": "https://x.com/kai_lebb/status/2072623222038675762/video/1",
+          "media_key": "7_2072623153096863744",
+          "start": 41,
+          "url": "https://t.co/BNChtvA5iI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073022622460436789",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072623222038675762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kai_lebb: Half green 💚 half purple 💜 https://t.co/BNChtvA5iI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47020,
+        "height": 960,
+        "media_key": "7_2072623153096863744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072623153096863744/pu/img/ixPGMhKm_HbypH3D.jpg",
+        "public_metrics": {
+          "view_count": 138417
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072623153096863744/pu/vid/avc1/320x426/xNz_OwXVfRedKaP1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072623153096863744/pu/vid/avc1/480x640/NzsJ_OwetDcurEjd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072623153096863744/pu/vid/avc1/720x960/XjrOyXXMq5MmvT0r.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072623153096863744/pu/pl/K8VE8OX9wLYN6Ve5.m3u8?tag=12&v=7fd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072623153096863744"
+          ],
+          "media_source_tweet_id": [
+            "2072623222038675762"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073022622460436789",
+        "created_at": "2026-07-03T12:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073022622460436789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048512493824217089",
+              "start": 3,
+              "username": "kai_lebb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNChtvA5iI",
+              "end": 64,
+              "expanded_url": "https://x.com/kai_lebb/status/2072623222038675762/video/1",
+              "media_key": "7_2072623153096863744",
+              "start": 41,
+              "url": "https://t.co/BNChtvA5iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073022622460436789",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072623222038675762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kai_lebb: Half green 💚 half purple 💜 https://t.co/BNChtvA5iI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072623153096863744"
+          ]
+        },
+        "author_id": "2048512493824217089",
+        "conversation_id": "2072623222038675762",
+        "created_at": "2026-07-02T10:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072623222038675762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNChtvA5iI",
+              "end": 50,
+              "expanded_url": "https://x.com/kai_lebb/status/2072623222038675762/video/1",
+              "media_key": "7_2072623153096863744",
+              "start": 27,
+              "url": "https://t.co/BNChtvA5iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072623222038675762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 430,
+          "impression_count": 325313,
+          "like_count": 2510,
+          "quote_count": 9,
+          "reply_count": 19,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "Half green 💚 half purple 💜 https://t.co/BNChtvA5iI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 213,
+          "like_count": 889,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T21:20:24.000Z",
+        "description": "",
+        "id": "2048512493824217089",
+        "name": "Kai_lebb 🥶",
+        "pinned_tweet_id": "2073022566814376276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052158180956753921/-zHKBw6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 996,
+          "like_count": 23882,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 12024
+        },
+        "url": "",
+        "username": "kai_lebb",
+        "verified": false
+      }
+    ]
+  }
+}

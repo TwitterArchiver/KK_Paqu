@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2066027767460962368",
+    "created_at": "2026-06-14T10:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066108310177333695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066108310177333695",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066027767460962368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me 嘎达嘎哒嘎嘎我的小舅舅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2034,
+        "media_key": "3_2066027744656605184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwBSZhbwAAwc96.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066027744652365824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwBSZgbEAA5R6U.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066027744652333056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwBSZgakAAUczy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066027744694251521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwBSZqaMAEkXKU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2066027767460962368",
+        "created_at": "2026-06-14T10:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066108310177333695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066108310177333695",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066027767460962368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 嘎达嘎哒嘎嘎我的小舅舅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066027744656605184",
+            "3_2066027744652365824",
+            "3_2066027744652333056",
+            "3_2066027744694251521"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2066027767460962368",
+        "created_at": "2026-06-14T05:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066027767460962368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHu5kI9Y6Q",
+              "end": 27,
+              "expanded_url": "https://x.com/0voki33Me/status/2066027767460962368/photo/1",
+              "media_key": "3_2066027744656605184",
+              "start": 4,
+              "url": "https://t.co/OHu5kI9Y6Q"
+            },
+            {
+              "display_url": "pic.x.com/OHu5kI9Y6Q",
+              "end": 27,
+              "expanded_url": "https://x.com/0voki33Me/status/2066027767460962368/photo/1",
+              "media_key": "3_2066027744652365824",
+              "start": 4,
+              "url": "https://t.co/OHu5kI9Y6Q"
+            },
+            {
+              "display_url": "pic.x.com/OHu5kI9Y6Q",
+              "end": 27,
+              "expanded_url": "https://x.com/0voki33Me/status/2066027767460962368/photo/1",
+              "media_key": "3_2066027744652333056",
+              "start": 4,
+              "url": "https://t.co/OHu5kI9Y6Q"
+            },
+            {
+              "display_url": "pic.x.com/OHu5kI9Y6Q",
+              "end": 27,
+              "expanded_url": "https://x.com/0voki33Me/status/2066027767460962368/photo/1",
+              "media_key": "3_2066027744694251521",
+              "start": 4,
+              "url": "https://t.co/OHu5kI9Y6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066027767460962368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛋，蛋 https://t.co/OHu5kI9Y6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 176,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 468
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 1170,
+          "like_count": 6770,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 6851
+        },
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

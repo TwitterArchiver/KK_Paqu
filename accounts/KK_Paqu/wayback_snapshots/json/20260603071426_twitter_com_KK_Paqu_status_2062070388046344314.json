@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2061769650225246571",
+    "created_at": "2026-06-03T07:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062070388046344314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1853293374889136128",
+          "start": 0,
+          "username": "gimanother"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062070388046344314",
+    "in_reply_to_user_id": "1853293374889136128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061769650225246571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimanother 我无语了…咋这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061769650225246571",
+        "created_at": "2026-06-03T07:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062070388046344314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1853293374889136128",
+              "start": 0,
+              "username": "gimanother"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062070388046344314",
+        "in_reply_to_user_id": "1853293374889136128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061769650225246571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimanother 我无语了…咋这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853293374889136128",
+        "conversation_id": "2061769650225246571",
+        "created_at": "2026-06-02T11:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061769650225246571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061769650225246571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小红书超绝敏感肌之提到骄傲月直接限流到除了我自己之外都看不见此笔记，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 135,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 167
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:29:15.000Z",
+        "description": "mtx\n某人的影子\n在没有希望的角落里\n阴暗地注视你们",
+        "id": "1853293374889136128",
+        "name": "卡几莫多 崩溃风险（高）",
+        "pinned_tweet_id": "1853452042981007698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961611898853756929/9J5xBTUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 274,
+          "like_count": 25128,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2907
+        },
+        "username": "gimanother",
+        "verified": false
+      }
+    ]
+  }
+}

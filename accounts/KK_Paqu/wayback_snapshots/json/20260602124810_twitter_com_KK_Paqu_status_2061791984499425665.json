@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061791974143733760"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2061790556775240018",
+    "created_at": "2026-06-02T12:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061791984499425665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SWjZ9otSZo",
+          "end": 77,
+          "expanded_url": "https://x.com/KK_Paqu/status/2061791984499425665/photo/1",
+          "media_key": "3_2061791974143733760",
+          "start": 54,
+          "url": "https://t.co/SWjZ9otSZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061791984499425665",
+    "in_reply_to_user_id": "1733217384050384896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061790556775240018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不干了哈 别举报我 我还可以收租还可以靠其他挣钱 别举报我了\n继承朋友留下的东西烂透了\n我自己也自身难保 https://t.co/SWjZ9otSZo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061791984499425665].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061791984499425665",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061791984499425665"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_2061791974143733760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz04GuWsAAiq6Q.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061790556775240018",
+        "created_at": "2026-06-02T12:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061790556775240018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061790556775240018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又来了\n大家我想你们\n我是盐制肉鸦\n不卖斯莫克了同行举报\n我本来也不是拿来竞争的\n我本身的精神病行为被拿着举报\n我没有树敌 也没有任何被点的理由\n自从接管小树的工作我一直被举报\n我不干了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 42,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 83
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062715630101364736",
+        "3_2062715630092976128"
+      ],
+      "media_source_tweet_id": [
+        "2062715634643775946",
+        "2062715634643775946"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062883946518745217",
+    "created_at": "2026-06-05T13:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062883946518745217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040861367167516672",
+          "start": 3,
+          "username": "tangyyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XP0RT0hFTY",
+          "end": 70,
+          "expanded_url": "https://x.com/tangyyu/status/2062715634643775946/photo/1",
+          "media_key": "3_2062715630101364736",
+          "start": 47,
+          "url": "https://t.co/XP0RT0hFTY"
+        },
+        {
+          "display_url": "pic.x.com/XP0RT0hFTY",
+          "end": 70,
+          "expanded_url": "https://x.com/tangyyu/status/2062715634643775946/photo/1",
+          "media_key": "3_2062715630092976128",
+          "start": 47,
+          "url": "https://t.co/XP0RT0hFTY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062883946518745217",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062715634643775946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangyyu: furry thangyus for artfight ^_^_^ https://t.co/XP0RT0hFTY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062715630101364736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA879TWgAAVahp.jpg",
+        "width": 2024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062715630092976128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA879RWgAA4i5z.jpg",
+        "width": 2024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062715630101364736",
+            "3_2062715630092976128"
+          ],
+          "media_source_tweet_id": [
+            "2062715634643775946",
+            "2062715634643775946"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062883946518745217",
+        "created_at": "2026-06-05T13:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062883946518745217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040861367167516672",
+              "start": 3,
+              "username": "tangyyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XP0RT0hFTY",
+              "end": 70,
+              "expanded_url": "https://x.com/tangyyu/status/2062715634643775946/photo/1",
+              "media_key": "3_2062715630101364736",
+              "start": 47,
+              "url": "https://t.co/XP0RT0hFTY"
+            },
+            {
+              "display_url": "pic.x.com/XP0RT0hFTY",
+              "end": 70,
+              "expanded_url": "https://x.com/tangyyu/status/2062715634643775946/photo/1",
+              "media_key": "3_2062715630092976128",
+              "start": 47,
+              "url": "https://t.co/XP0RT0hFTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062883946518745217",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062715634643775946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tangyyu: furry thangyus for artfight ^_^_^ https://t.co/XP0RT0hFTY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062715630101364736",
+            "3_2062715630092976128"
+          ]
+        },
+        "author_id": "2040861367167516672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062715634643775946",
+        "created_at": "2026-06-05T01:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062715634643775946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XP0RT0hFTY",
+              "end": 57,
+              "expanded_url": "https://x.com/tangyyu/status/2062715634643775946/photo/1",
+              "media_key": "3_2062715630101364736",
+              "start": 34,
+              "url": "https://t.co/XP0RT0hFTY"
+            },
+            {
+              "display_url": "pic.x.com/XP0RT0hFTY",
+              "end": 57,
+              "expanded_url": "https://x.com/tangyyu/status/2062715634643775946/photo/1",
+              "media_key": "3_2062715630092976128",
+              "start": 34,
+              "url": "https://t.co/XP0RT0hFTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062715634643775946",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 973,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "furry thangyus for artfight ^_^_^ https://t.co/XP0RT0hFTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 139,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 210
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T18:38:12.000Z",
+        "description": "minor\n🇹🇹",
+        "id": "2040861367167516672",
+        "location": "he/she",
+        "name": "tangerine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040862991844069376/Ct9UmxQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 22,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 46
+        },
+        "username": "tangyyu",
+        "verified": false
+      }
+    ]
+  }
+}

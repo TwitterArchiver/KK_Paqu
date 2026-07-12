@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2062921266559062524",
+    "created_at": "2026-06-05T15:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062921266559062524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1737456647872958464",
+          "start": 3,
+          "username": "dorotice5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/I64jdcrF",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/I64jdcrF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062921266559062524",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062850792462406059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dorotice5: 🌪️ 2010s Party girl makeup\n2010년대 하면 떠오르는 실버 스모키 메이크업 시원한 색감이라 따뜻한 색조와 같이 써도 답답해보이지 않아서 여름 시즌 스모키로 추천! https://t.co/I64jdcrF…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2230,
+        "media_key": "3_2062850786057728000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC33EebMAASXCE.jpg",
+        "width": 1871
+      },
+      {
+        "height": 2181,
+        "media_key": "3_2062850786049347584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC33EcbUAAidT5.jpg",
+        "width": 1841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2062921266559062524",
+        "created_at": "2026-06-05T15:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062921266559062524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1737456647872958464",
+              "start": 3,
+              "username": "dorotice5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/I64jdcrF",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/I64jdcrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062921266559062524",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062850792462406059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dorotice5: 🌪️ 2010s Party girl makeup\n2010년대 하면 떠오르는 실버 스모키 메이크업 시원한 색감이라 따뜻한 색조와 같이 써도 답답해보이지 않아서 여름 시즌 스모키로 추천! https://t.co/I64jdcrF…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062850786057728000",
+            "3_2062850786049347584"
+          ]
+        },
+        "author_id": "1737456647872958464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2062850792462406059",
+        "created_at": "2026-06-05T10:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062850792462406059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I64jdcrFxQ",
+              "end": 126,
+              "expanded_url": "https://x.com/dorotice5/status/2062850792462406059/photo/1",
+              "media_key": "3_2062850786057728000",
+              "start": 103,
+              "url": "https://t.co/I64jdcrFxQ"
+            },
+            {
+              "display_url": "pic.x.com/I64jdcrFxQ",
+              "end": 126,
+              "expanded_url": "https://x.com/dorotice5/status/2062850792462406059/photo/1",
+              "media_key": "3_2062850786049347584",
+              "start": 103,
+              "url": "https://t.co/I64jdcrFxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062850792462406059",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 39106,
+          "like_count": 1640,
+          "quote_count": 47,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "reply_settings": "following",
+        "text": "🌪️ 2010s Party girl makeup\n2010년대 하면 떠오르는 실버 스모키 메이크업 시원한 색감이라 따뜻한 색조와 같이 써도 답답해보이지 않아서 여름 시즌 스모키로 추천! https://t.co/I64jdcrFxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 143,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 220
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T12:55:29.000Z",
+        "description": "Doro \ninsta: dorotice5\ndorotice5@gmail.com :p",
+        "id": "1737456647872958464",
+        "name": "도로",
+        "pinned_tweet_id": "2048345593823805743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924153189684711424/nbyfvgxH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31995,
+          "following_count": 88,
+          "like_count": 7978,
+          "listed_count": 57,
+          "media_count": 1339,
+          "tweet_count": 7562
+        },
+        "username": "dorotice5",
+        "verified": false
+      }
+    ]
+  }
+}

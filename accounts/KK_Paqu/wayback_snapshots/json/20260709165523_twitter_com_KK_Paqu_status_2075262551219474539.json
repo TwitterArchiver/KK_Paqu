@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883735125894041600"
+      ],
+      "media_source_tweet_id": [
+        "1883735129170071651"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2075262551219474539",
+    "created_at": "2026-07-09T16:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075262551219474539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1070615300406566913",
+          "start": 3,
+          "username": "nordicpuff_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VSZ1eYRfRo",
+          "end": 61,
+          "expanded_url": "https://x.com/nordicpuff_/status/1883735129170071651/photo/1",
+          "media_key": "3_1883735125894041600",
+          "start": 38,
+          "url": "https://t.co/VSZ1eYRfRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075262551219474539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883735129170071651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nordicpuff_: 還有一張練手的一不小心胸部畫太大了對不起 https://t.co/VSZ1eYRfRo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1399,
+        "media_key": "3_1883735125894041600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiRfHdXXEAAE7ei.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883735125894041600"
+          ],
+          "media_source_tweet_id": [
+            "1883735129170071651"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2075262551219474539",
+        "created_at": "2026-07-09T16:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075262551219474539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1070615300406566913",
+              "start": 3,
+              "username": "nordicpuff_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VSZ1eYRfRo",
+              "end": 61,
+              "expanded_url": "https://x.com/nordicpuff_/status/1883735129170071651/photo/1",
+              "media_key": "3_1883735125894041600",
+              "start": 38,
+              "url": "https://t.co/VSZ1eYRfRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075262551219474539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883735129170071651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nordicpuff_: 還有一張練手的一不小心胸部畫太大了對不起 https://t.co/VSZ1eYRfRo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883735125894041600"
+          ]
+        },
+        "author_id": "1070615300406566913",
+        "conversation_id": "1883735129170071651",
+        "created_at": "2025-01-27T04:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883735129170071651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VSZ1eYRfRo",
+              "end": 44,
+              "expanded_url": "https://x.com/nordicpuff_/status/1883735129170071651/photo/1",
+              "media_key": "3_1883735125894041600",
+              "start": 21,
+              "url": "https://t.co/VSZ1eYRfRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883735129170071651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 24110,
+          "like_count": 1823,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "還有一張練手的一不小心胸部畫太大了對不起 https://t.co/VSZ1eYRfRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 218,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-06T09:45:53.000Z",
+        "description": "20↑ 作為同人姐的使命是豌豆雜交|| 中/ENG/JP FF外🔕 || priv @nordicpuss_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "nordicpuss_"
+              }
+            ]
+          }
+        },
+        "id": "1070615300406566913",
+        "name": "NDPF",
+        "pinned_tweet_id": "2029606282911518813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064528544219172864/XH0miDPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7873,
+          "following_count": 95,
+          "like_count": 6139,
+          "listed_count": 41,
+          "media_count": 895,
+          "tweet_count": 3799
+        },
+        "url": "",
+        "username": "nordicpuff_",
+        "verified": false
+      }
+    ]
+  }
+}

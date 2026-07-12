@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075174016412012544"
+      ],
+      "media_source_tweet_id": [
+        "2075174020824326557"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2075615038090715273",
+    "created_at": "2026-07-10T16:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075615038090715273"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "player230"
+        },
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "player124"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061094163282837504",
+          "start": 3,
+          "username": "cx9oe_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mt4pieKOx2",
+          "end": 65,
+          "expanded_url": "https://x.com/cx9oe_9/status/2075174020824326557/photo/1",
+          "media_key": "3_2075174016412012544",
+          "start": 42,
+          "url": "https://t.co/mt4pieKOx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075615038090715273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075174020824326557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cx9oe_9: 薬媚びなむす\n#player230 #player124 https://t.co/mt4pieKOx2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075174016412012544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx_xe9b0AAy975.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075174016412012544"
+          ],
+          "media_source_tweet_id": [
+            "2075174020824326557"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2075615038090715273",
+        "created_at": "2026-07-10T16:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075615038090715273"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "player230"
+            },
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "player124"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061094163282837504",
+              "start": 3,
+              "username": "cx9oe_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mt4pieKOx2",
+              "end": 65,
+              "expanded_url": "https://x.com/cx9oe_9/status/2075174020824326557/photo/1",
+              "media_key": "3_2075174016412012544",
+              "start": 42,
+              "url": "https://t.co/mt4pieKOx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075615038090715273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075174020824326557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cx9oe_9: 薬媚びなむす\n#player230 #player124 https://t.co/mt4pieKOx2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075174016412012544"
+          ]
+        },
+        "author_id": "2061094163282837504",
+        "conversation_id": "2075174020824326557",
+        "created_at": "2026-07-09T11:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075174020824326557"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "player230"
+            },
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "player124"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mt4pieKOx2",
+              "end": 52,
+              "expanded_url": "https://x.com/cx9oe_9/status/2075174020824326557/photo/1",
+              "media_key": "3_2075174016412012544",
+              "start": 29,
+              "url": "https://t.co/mt4pieKOx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075174020824326557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1658,
+          "like_count": 261,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "薬媚びなむす\n#player230 #player124 https://t.co/mt4pieKOx2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 219,
+          "like_count": 1003,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 816
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T14:35:31.000Z",
+        "description": "🦑🎮｜prayer124",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/cptotuxsus48mf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/cptotuxsus48mfg?t=9xB6ts&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Mr3QQGIBxr"
+              }
+            ]
+          }
+        },
+        "id": "2061094163282837504",
+        "name": "SAA‼️",
+        "pinned_tweet_id": "2065393508371055079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061095624112828416/9B2qSvRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 17,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/Mr3QQGIBxr",
+        "username": "cx9oe_9",
+        "verified": false
+      }
+    ]
+  }
+}

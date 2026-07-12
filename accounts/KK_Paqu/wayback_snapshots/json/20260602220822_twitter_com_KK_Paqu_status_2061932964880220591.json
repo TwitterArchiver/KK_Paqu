@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2061494815217611205",
+    "created_at": "2026-06-02T22:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061932964880220591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059326143640276992",
+          "start": 0,
+          "username": "Huhiosc3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061932964880220591",
+    "in_reply_to_user_id": "2059326143640276992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061494815217611205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhiosc3x 宝宝很好呜呜呜呜\n不会的啦\n那我现在黑幕你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061494815217611205",
+        "created_at": "2026-06-02T22:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061932964880220591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059326143640276992",
+              "start": 0,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061932964880220591",
+        "in_reply_to_user_id": "2059326143640276992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061494815217611205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhiosc3x 宝宝很好呜呜呜呜\n不会的啦\n那我现在黑幕你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059326143640276992",
+        "conversation_id": "2061494815217611205",
+        "created_at": "2026-06-01T17:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061494815217611205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061494815217611205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一般抽奖我都不参与，因为觉得自己应该抽不到，而且把机会让给别人更好，我这么觉得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 107,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 125
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜同类互fo大欢迎｜我有点笨笨的会直关，如果冒犯了可以移fo……｜非必要不回私信啦｜内容比较阴暗负面……有药物私生活混乱描写但不会有露骨照片和do的描写……只有心理描写一般是负能量｜生理女心理女，友跨｜",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 79,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 212
+        },
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

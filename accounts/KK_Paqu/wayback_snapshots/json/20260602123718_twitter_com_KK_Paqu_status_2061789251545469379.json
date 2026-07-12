@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2061789251545469379",
+    "created_at": "2026-06-02T12:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061789251545469379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733217384050384896",
+          "start": 3,
+          "username": "KK_Paqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061789251545469379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061382735558521050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KK_Paqu: 哦对可以帮我截图一下说这是盐制肉鸦的小小小号\n其实以前是里账号 如果能帮忙宣传 很感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061789251545469379",
+        "created_at": "2026-06-02T12:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061789251545469379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733217384050384896",
+              "start": 3,
+              "username": "KK_Paqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061789251545469379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061382735558521050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KK_Paqu: 哦对可以帮我截图一下说这是盐制肉鸦的小小小号\n其实以前是里账号 如果能帮忙宣传 很感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061382735558521050",
+        "created_at": "2026-06-01T09:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061382735558521050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061382735558521050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哦对可以帮我截图一下说这是盐制肉鸦的小小小号\n其实以前是里账号 如果能帮忙宣传 很感谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "⚙️König🐙🥐",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733219783171305472/C0kVBXWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 40,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 75
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

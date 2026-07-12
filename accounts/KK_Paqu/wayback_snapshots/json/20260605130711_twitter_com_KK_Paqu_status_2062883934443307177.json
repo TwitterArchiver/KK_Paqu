@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062180840625598464"
+      ],
+      "media_source_tweet_id": [
+        "2062180844777943055"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062883934443307177",
+    "created_at": "2026-06-05T13:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062883934443307177"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "dol"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1977341542777163776",
+          "start": 3,
+          "username": "43_dol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9XQnm04S9F",
+          "end": 40,
+          "expanded_url": "https://x.com/43_dol/status/2062180844777943055/photo/1",
+          "media_key": "3_2062180840625598464",
+          "start": 17,
+          "url": "https://t.co/9XQnm04S9F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062883934443307177",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 275
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062180844777943055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @43_dol: #dol https://t.co/9XQnm04S9F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2062180840625598464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5WjHQa8AAhKxq.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062180840625598464"
+          ],
+          "media_source_tweet_id": [
+            "2062180844777943055"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062883934443307177",
+        "created_at": "2026-06-05T13:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062883934443307177"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "dol"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1977341542777163776",
+              "start": 3,
+              "username": "43_dol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XQnm04S9F",
+              "end": 40,
+              "expanded_url": "https://x.com/43_dol/status/2062180844777943055/photo/1",
+              "media_key": "3_2062180840625598464",
+              "start": 17,
+              "url": "https://t.co/9XQnm04S9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062883934443307177",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062180844777943055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @43_dol: #dol https://t.co/9XQnm04S9F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062180840625598464"
+          ]
+        },
+        "author_id": "1977341542777163776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062180844777943055",
+        "created_at": "2026-06-03T14:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062180844777943055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "dol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9XQnm04S9F",
+              "end": 28,
+              "expanded_url": "https://x.com/43_dol/status/2062180844777943055/photo/1",
+              "media_key": "3_2062180840625598464",
+              "start": 5,
+              "url": "https://t.co/9XQnm04S9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062180844777943055",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 9344,
+          "like_count": 1811,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "#dol https://t.co/9XQnm04S9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 139,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 210
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T11:52:24.000Z",
+        "description": "",
+        "id": "1977341542777163776",
+        "location": "Domus Street",
+        "name": "43",
+        "pinned_tweet_id": "2039022147402936354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340842279292928/65rmb2s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 19,
+          "like_count": 569,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 92
+        },
+        "username": "43_dol",
+        "verified": false
+      }
+    ]
+  }
+}

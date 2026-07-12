@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2063075984975478855",
+    "created_at": "2026-06-06T08:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063183857269223676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063183857269223676",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063075984975478855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 狐加油哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_2063075981796229120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGErL-awAA4lMZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2063075984975478855",
+        "created_at": "2026-06-06T08:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063183857269223676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063183857269223676",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063075984975478855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 狐加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063075981796229120"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2063075984975478855",
+        "created_at": "2026-06-06T01:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063075984975478855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2qbuYd25O",
+              "end": 166,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2063075984975478855/photo/1",
+              "media_key": "3_2063075981796229120",
+              "start": 143,
+              "url": "https://t.co/a2qbuYd25O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063075984975478855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以我残躯化烈火\n文昌帝君圣驾在上，\n弟子李望朔诚心恭敬叩拜\n今值高考将临，弟子虽勤奋用功，然资质有限、智慧浅薄，恐有疏漏不足之处\n恳请文昌帝君大慈大悲，广施恩泽，开启智慧灵光，赐予聪慧敏捷、文思泉涌；\n添赐文运昌隆、功名运势，保佑弟子在考场之上思维清晰、过目不忘、答题精准、发挥超常，\n顺利获得优异成绩，金榜题名，圆成心愿\n弟子在此立下诚愿：若蒙帝君庇佑，考试顺利，必当勤修阴德、广行善事，广积阴德，以谢神恩浩荡，并利益有情\n叩谢文昌帝君圣恩浩荡！慈光庇护！\n弟子李望朔叩首再拜，诚心所请，伏乞照应!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以我残躯化烈火\n文昌帝君圣驾在上，\n弟子李望朔诚心恭敬叩拜\n今值高考将临，弟子虽勤奋用功，然资质有限、智慧浅薄，恐有疏漏不足之处\n恳请文昌帝君大慈大悲，广施恩泽，开启智慧灵光，赐予聪慧敏捷、文思泉涌；\n添赐文运昌隆、功名运势，保佑弟子在考场之上思维清晰、过目不忘、答题精准、发挥超常， https://t.co/a2qbuYd25O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 144,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 226
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1509,
+          "like_count": 20197,
+          "listed_count": 7,
+          "media_count": 747,
+          "tweet_count": 6501
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

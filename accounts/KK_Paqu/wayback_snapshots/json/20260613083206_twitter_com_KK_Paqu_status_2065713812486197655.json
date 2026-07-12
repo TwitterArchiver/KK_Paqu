@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065713789564321792"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2065713812486197655",
+    "created_at": "2026-06-13T08:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065713812486197655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CuaQzkTRYh",
+          "end": 34,
+          "expanded_url": "https://x.com/KK_Paqu/status/2065713812486197655/photo/1",
+          "media_key": "3_2065713789564321792",
+          "start": 11,
+          "url": "https://t.co/CuaQzkTRYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065713812486197655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是长发男（坐公交车 https://t.co/CuaQzkTRYh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065713812486197655].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065713812486197655",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065713812486197655"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065713789564321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrjvzqbgAAIvId.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 169,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 449
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

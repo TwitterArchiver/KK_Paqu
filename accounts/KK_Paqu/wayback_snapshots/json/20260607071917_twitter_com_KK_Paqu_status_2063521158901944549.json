@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063521074021830656",
+        "13_2063521073979936769"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2063521158901944549",
+    "created_at": "2026-06-07T07:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063521158901944549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/15493dMVVa",
+          "end": 28,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063521158901944549/video/1",
+          "media_key": "13_2063521074021830656",
+          "start": 5,
+          "url": "https://t.co/15493dMVVa"
+        },
+        {
+          "display_url": "pic.x.com/15493dMVVa",
+          "end": 28,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063521158901944549/video/1",
+          "media_key": "13_2063521073979936769",
+          "start": 5,
+          "url": "https://t.co/15493dMVVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063521158901944549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "化妆效果 https://t.co/15493dMVVa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063521158901944549].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063521158901944549",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063521158901944549"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3070,
+        "height": 854,
+        "media_key": "13_2063521074021830656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063521074021830656/img/94wWbaLV72Bs8HJ7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521074021830656/vid/avc1/320x568/JxESvGySBG10eNGP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521074021830656/vid/avc1/480x854/ajHqG9xr55sHy0BD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063521074021830656/pl/dMs1vbiCr-CCX3fp.m3u8"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "duration_ms": 20005,
+        "height": 854,
+        "media_key": "13_2063521073979936769",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063521073979936769/img/yNKFiA7UimVhTpBF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521073979936769/vid/avc1/320x692/qgo4k3_iymKpwd44.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063521073979936769/vid/avc1/394x854/elR2SyKuaoxC3bgV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063521073979936769/pl/_wBmB0ydZUm6V8zd.m3u8"
+          }
+        ],
+        "width": 394
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 152,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 276
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

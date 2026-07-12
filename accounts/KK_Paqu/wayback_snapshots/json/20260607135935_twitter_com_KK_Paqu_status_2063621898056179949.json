@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063621746948009984",
+        "3_2063621747832967168",
+        "3_2063621748122370048",
+        "3_2063621748097269760"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063590833031659971",
+    "created_at": "2026-06-07T13:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063621898056179949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YbClE7atYq",
+          "end": 45,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063621898056179949/photo/1",
+          "media_key": "3_2063621746948009984",
+          "start": 22,
+          "url": "https://t.co/YbClE7atYq"
+        },
+        {
+          "display_url": "pic.x.com/YbClE7atYq",
+          "end": 45,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063621898056179949/photo/1",
+          "media_key": "3_2063621747832967168",
+          "start": 22,
+          "url": "https://t.co/YbClE7atYq"
+        },
+        {
+          "display_url": "pic.x.com/YbClE7atYq",
+          "end": 45,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063621898056179949/photo/1",
+          "media_key": "3_2063621748122370048",
+          "start": 22,
+          "url": "https://t.co/YbClE7atYq"
+        },
+        {
+          "display_url": "pic.x.com/YbClE7atYq",
+          "end": 45,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063621898056179949/photo/1",
+          "media_key": "3_2063621748097269760",
+          "start": 22,
+          "url": "https://t.co/YbClE7atYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063621898056179949",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063590833031659971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 夜晚好美我是下午去的 https://t.co/YbClE7atYq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063621898056179949].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063621898056179949",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063621898056179949"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063621746948009984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN1C5mbcAAYH52.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063621747832967168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN1C85a0AAeD1t.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063621748122370048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN1C9-awAAYWZm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063621748097269760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN1C94bwAAuVcV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063590825758691328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNY7DMaEAAKdFN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063590825758765056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNY7DMbMAAGGEi.jpg",
+        "width": 1586
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063590825695883265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNY7C9bsAETVsE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063590825758691328",
+            "3_2063590825758765056",
+            "3_2063590825695883265"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2063590833031659971",
+        "created_at": "2026-06-07T11:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063590833031659971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88NxInoXAv",
+              "end": 45,
+              "expanded_url": "https://x.com/Minokakay/status/2063590833031659971/photo/1",
+              "media_key": "3_2063590825758691328",
+              "start": 22,
+              "url": "https://t.co/88NxInoXAv"
+            },
+            {
+              "display_url": "pic.x.com/88NxInoXAv",
+              "end": 45,
+              "expanded_url": "https://x.com/Minokakay/status/2063590833031659971/photo/1",
+              "media_key": "3_2063590825758765056",
+              "start": 22,
+              "url": "https://t.co/88NxInoXAv"
+            },
+            {
+              "display_url": "pic.x.com/88NxInoXAv",
+              "end": 45,
+              "expanded_url": "https://x.com/Minokakay/status/2063590833031659971/photo/1",
+              "media_key": "3_2063590825695883265",
+              "start": 22,
+              "url": "https://t.co/88NxInoXAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063590833031659971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1147,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "京都雨夜\n没有人挤人的京都 才是真正的京都 https://t.co/88NxInoXAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 160,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 314
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14323,
+          "following_count": 1045,
+          "like_count": 44003,
+          "listed_count": 48,
+          "media_count": 1834,
+          "tweet_count": 26172
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

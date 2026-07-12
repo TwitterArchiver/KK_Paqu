@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063520526149255168"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2063520594621300797",
+    "created_at": "2026-06-07T07:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063520594621300797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aurRWXRhtV",
+          "end": 35,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063520594621300797/video/1",
+          "media_key": "13_2063520526149255168",
+          "start": 12,
+          "url": "https://t.co/aurRWXRhtV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063520594621300797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "化妆效果\n展示用红颜料 https://t.co/aurRWXRhtV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063520594621300797].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063520594621300797",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063520594621300797"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6333,
+        "height": 590,
+        "media_key": "13_2063520526149255168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063520526149255168/img/fS5J0WSQ1j9eIA2a.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063520526149255168/vid/avc1/584x270/HmUiFv3cFIWmdAex.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063520526149255168/vid/avc1/780x360/k3O_CMOrdaVx0fBc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063520526149255168/vid/avc1/1280x590/tBiP2a5rtt46vuEJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063520526149255168/pl/PP1kp3E7u0md_-73.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 151,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 275
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065772477041848320"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065772486760009927",
+    "created_at": "2026-06-13T12:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065772486760009927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1874756593616891904",
+          "start": 6,
+          "username": "mossneverdie"
+        },
+        {
+          "end": 36,
+          "id": "1951181920022437889",
+          "start": 20,
+          "username": "blackdoginmyhed"
+        },
+        {
+          "end": 48,
+          "id": "1853293374889136128",
+          "start": 37,
+          "username": "gimanother"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FRc3dUiy5T",
+          "end": 72,
+          "expanded_url": "https://x.com/KK_Paqu/status/2065772486760009927/photo/1",
+          "media_key": "3_2065772477041848320",
+          "start": 49,
+          "url": "https://t.co/FRc3dUiy5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065772486760009927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我忘记炫耀了@mossneverdie @blackdoginmyhed @gimanother https://t.co/FRc3dUiy5T"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065772486760009927].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065772486760009927",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065772486760009927"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065772477041848320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsZH3jbsAAAGde.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 169,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 451
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T09:56:25.000Z",
+        "description": "坐标成都！求金主 给钱什么猎奇sm都能做 微信ginhiji1005love也可加v后过门🚪55加微信/88+五擦边图+可约/188+luo照/1314不太可能所以我不梦了喵✞（口令红包/置顶收款码都能给了后私我加我wx）",
+        "id": "1874756593616891904",
+        "location": "成都",
+        "name": "🔞想死更想留巴黎🔞",
+        "pinned_tweet_id": "2004558554792079723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919631170717024262/cC3Kglti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 569,
+          "like_count": 2920,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 384
+        },
+        "username": "mossneverdie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以与我交流 推文能看到很多交流记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 631,
+          "like_count": 4225,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1243
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:29:15.000Z",
+        "description": "mtx\n某人的影子\n在没有希望的角落里\n阴暗地注视你们",
+        "id": "1853293374889136128",
+        "name": "卡几莫多 崩溃风险（高）",
+        "pinned_tweet_id": "1853452042981007698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961611898853756929/9J5xBTUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 277,
+          "like_count": 25587,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2942
+        },
+        "username": "gimanother",
+        "verified": false
+      }
+    ]
+  }
+}

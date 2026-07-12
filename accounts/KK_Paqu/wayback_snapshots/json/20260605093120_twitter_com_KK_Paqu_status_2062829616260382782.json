@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062829608664465408",
+        "3_2062829608660242432",
+        "3_2062829608689610752",
+        "3_2062829608639336448"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2062829616260382782",
+    "created_at": "2026-06-05T09:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062829616260382782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aGJscuvYe3",
+          "end": 47,
+          "expanded_url": "https://x.com/KK_Paqu/status/2062829616260382782/photo/1",
+          "media_key": "3_2062829608664465408",
+          "start": 24,
+          "url": "https://t.co/aGJscuvYe3"
+        },
+        {
+          "display_url": "pic.x.com/aGJscuvYe3",
+          "end": 47,
+          "expanded_url": "https://x.com/KK_Paqu/status/2062829616260382782/photo/1",
+          "media_key": "3_2062829608660242432",
+          "start": 24,
+          "url": "https://t.co/aGJscuvYe3"
+        },
+        {
+          "display_url": "pic.x.com/aGJscuvYe3",
+          "end": 47,
+          "expanded_url": "https://x.com/KK_Paqu/status/2062829616260382782/photo/1",
+          "media_key": "3_2062829608689610752",
+          "start": 24,
+          "url": "https://t.co/aGJscuvYe3"
+        },
+        {
+          "display_url": "pic.x.com/aGJscuvYe3",
+          "end": 47,
+          "expanded_url": "https://x.com/KK_Paqu/status/2062829616260382782/photo/1",
+          "media_key": "3_2062829608639336448",
+          "start": 24,
+          "url": "https://t.co/aGJscuvYe3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062829616260382782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种不遵守规则的不要找我买东西啊\n还好我不卖了 https://t.co/aGJscuvYe3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062829616260382782].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062829616260382782",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062829616260382782"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062829608664465408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCkmYiagAAZ9Gq.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062829608660242432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCkmYhaEAAWXsQ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062829608689610752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCkmYoaMAA103-.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062829608639336448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCkmYcbEAAxV-C.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 140,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 188
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

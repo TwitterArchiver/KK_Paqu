@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061789684431290368",
+        "3_2061789684489928704",
+        "3_2061789684494131200"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2061789697433542673",
+    "created_at": "2026-06-02T12:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061789697433542673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1678171777409875968",
+          "start": 11,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wChXxqXfVS",
+          "end": 56,
+          "expanded_url": "https://x.com/KK_Paqu/status/2061789697433542673/photo/1",
+          "media_key": "3_2061789684431290368",
+          "start": 33,
+          "url": "https://t.co/wChXxqXfVS"
+        },
+        {
+          "display_url": "pic.x.com/wChXxqXfVS",
+          "end": 56,
+          "expanded_url": "https://x.com/KK_Paqu/status/2061789697433542673/photo/1",
+          "media_key": "3_2061789684489928704",
+          "start": 33,
+          "url": "https://t.co/wChXxqXfVS"
+        },
+        {
+          "display_url": "pic.x.com/wChXxqXfVS",
+          "end": 56,
+          "expanded_url": "https://x.com/KK_Paqu/status/2061789697433542673/photo/1",
+          "media_key": "3_2061789684494131200",
+          "start": 33,
+          "url": "https://t.co/wChXxqXfVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061789697433542673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实也不记得了\n来自@420420420CTL 的品种\n一会删 https://t.co/wChXxqXfVS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061789697433542673].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061789697433542673",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061789697433542673"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061789684431290368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzyy04XgAAUOkD.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061789684489928704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzyy1GWQAA4BpG.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061789684494131200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzyy1HWYAATOEe.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "⚙️König🐙🥐",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733219783171305472/C0kVBXWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 40,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 77
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 703,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1077
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

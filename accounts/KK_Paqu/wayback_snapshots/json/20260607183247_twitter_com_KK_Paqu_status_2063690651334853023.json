@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2063570510848680410",
+    "created_at": "2026-06-07T18:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063690651334853023"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063690651334853023",
+    "in_reply_to_user_id": "1733217384050384896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063570510848680410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好多了我从医院到家吸氧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2063570500731969537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNGb-kaoAEVN47.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2063570510848680410",
+        "created_at": "2026-06-07T18:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063690651334853023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063690651334853023",
+        "in_reply_to_user_id": "1733217384050384896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063570510848680410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好多了我从医院到家吸氧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063570500731969537"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2063570510848680410",
+        "created_at": "2026-06-07T10:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063570510848680410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mEiqFqSiQ",
+              "end": 25,
+              "expanded_url": "https://x.com/KK_Paqu/status/2063570510848680410/photo/1",
+              "media_key": "3_2063570500731969537",
+              "start": 2,
+              "url": "https://t.co/1mEiqFqSiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063570510848680410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/1mEiqFqSiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 161,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 339
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

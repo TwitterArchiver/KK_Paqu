@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074149402038747136"
+      ],
+      "media_source_tweet_id": [
+        "2074149461094502881"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1437413779755597824",
+          "name": "Squid Game"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281303495421784065",
+          "name": "Dark drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1346749071000670209",
+          "name": "Korean series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1439901275856916484",
+          "name": "Squid Game"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1439901275856916484",
+          "name": "Squid Game"
+        }
+      }
+    ],
+    "conversation_id": "2074219566079885426",
+    "created_at": "2026-07-06T19:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074219566079885426"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 84,
+          "tag": "Squidgame"
+        },
+        {
+          "end": 103,
+          "start": 95,
+          "tag": "thangyu"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1601964206634729473",
+          "start": 3,
+          "username": "Kaiiy0_fish"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Xex5pnZcx",
+          "end": 127,
+          "expanded_url": "https://x.com/Kaiiy0_fish/status/2074149461094502881/video/1",
+          "media_key": "13_2074149402038747136",
+          "start": 104,
+          "url": "https://t.co/5Xex5pnZcx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074219566079885426",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074149461094502881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaiiy0_fish: THANGYU ANIMATION heheeheeee sorry for not posting here guuyyysss… #Squidgame #thangyu https://t.co/5Xex5pnZcx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13400,
+        "height": 720,
+        "media_key": "13_2074149402038747136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074149402038747136/img/H1a2ktN2bRGQBBTm.jpg",
+        "public_metrics": {
+          "view_count": 419
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074149402038747136/vid/avc1/362x270/arwo1pYNIeRLz2HY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074149402038747136/vid/avc1/482x360/-wxPxcAReAj6mDNC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074149402038747136/vid/avc1/966x720/vur7CXTsM7deJSu0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074149402038747136/pl/w8NnFWreExRbUQ55.m3u8"
+          }
+        ],
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074149402038747136"
+          ],
+          "media_source_tweet_id": [
+            "2074149461094502881"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1437413779755597824",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          }
+        ],
+        "conversation_id": "2074219566079885426",
+        "created_at": "2026-07-06T19:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074219566079885426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 84,
+              "tag": "Squidgame"
+            },
+            {
+              "end": 103,
+              "start": 95,
+              "tag": "thangyu"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1601964206634729473",
+              "start": 3,
+              "username": "Kaiiy0_fish"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Xex5pnZcx",
+              "end": 127,
+              "expanded_url": "https://x.com/Kaiiy0_fish/status/2074149461094502881/video/1",
+              "media_key": "13_2074149402038747136",
+              "start": 104,
+              "url": "https://t.co/5Xex5pnZcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074219566079885426",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074149461094502881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kaiiy0_fish: THANGYU ANIMATION heheeheeee sorry for not posting here guuyyysss… #Squidgame #thangyu https://t.co/5Xex5pnZcx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074149402038747136"
+          ]
+        },
+        "author_id": "1601964206634729473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1437413779755597824",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346749071000670209",
+              "name": "Korean series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1439901275856916484",
+              "name": "Squid Game"
+            }
+          }
+        ],
+        "conversation_id": "2074149461094502881",
+        "created_at": "2026-07-06T15:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074149461094502881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 67,
+              "tag": "Squidgame"
+            },
+            {
+              "end": 86,
+              "start": 78,
+              "tag": "thangyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Xex5pnZcx",
+              "end": 110,
+              "expanded_url": "https://x.com/Kaiiy0_fish/status/2074149461094502881/video/1",
+              "media_key": "13_2074149402038747136",
+              "start": 87,
+              "url": "https://t.co/5Xex5pnZcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074149461094502881",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 813,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "THANGYU ANIMATION heheeheeee sorry for not posting here guuyyysss… #Squidgame #thangyu https://t.co/5Xex5pnZcx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 218,
+          "like_count": 948,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 761
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T15:37:13.000Z",
+        "description": "☆⋆｡𖦹°‧★ 💚🩷olele olala- 17 squid game pilled Pls dont repost w/o credit!!!\n- pfp by saigonopafu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alolocoolerdump.straw.page",
+                "end": 23,
+                "expanded_url": "https://alolocoolerdump.straw.page",
+                "start": 0,
+                "url": "https://t.co/JG3iirZ99I"
+              }
+            ]
+          }
+        },
+        "id": "1601964206634729473",
+        "location": "354",
+        "name": "Al0!!!¹²⁴",
+        "pinned_tweet_id": "1959254635967066455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064303290851176448/mt51riUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 505,
+          "like_count": 41815,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 22399
+        },
+        "url": "https://t.co/JG3iirZ99I",
+        "username": "Kaiiy0_fish",
+        "verified": false
+      }
+    ]
+  }
+}

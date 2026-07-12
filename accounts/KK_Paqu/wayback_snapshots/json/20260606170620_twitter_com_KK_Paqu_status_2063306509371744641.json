@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063306503038349312"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2063306509371744641",
+    "created_at": "2026-06-06T17:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063306509371744641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wn3CkeRuHK",
+          "end": 23,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063306509371744641/photo/1",
+          "media_key": "3_2063306503038349312",
+          "start": 0,
+          "url": "https://t.co/Wn3CkeRuHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063306509371744641",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Wn3CkeRuHK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063306509371744641].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063306509371744641",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063306509371744641"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063306503038349312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJWVShasAAeBZG.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 151,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 273
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

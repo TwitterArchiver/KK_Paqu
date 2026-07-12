@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2061789389529698554",
+    "created_at": "2026-06-02T17:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061866251907969434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760994638478118912",
+          "start": 0,
+          "username": "3timesdie333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061866251907969434",
+    "in_reply_to_user_id": "1760994638478118912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061866064938725508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3timesdie333 坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061789389529698554",
+        "created_at": "2026-06-02T17:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061866251907969434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760994638478118912",
+              "start": 0,
+              "username": "3timesdie333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061866251907969434",
+        "in_reply_to_user_id": "1760994638478118912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061866064938725508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3timesdie333 坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760994638478118912",
+        "conversation_id": "2061789389529698554",
+        "created_at": "2026-06-02T17:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061866064938725508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733217384050384896",
+              "start": 0,
+              "username": "KK_Paqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061866064938725508",
+        "in_reply_to_user_id": "1733217384050384896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061789389529698554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_Paqu 太坏了，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 97,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 110
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:47:00.000Z",
+        "description": "Don't leave me on my own，\nI'm difficult I know，\nBut I really need a chance to be someone，\nSomeone I've never known\n性别男",
+        "id": "1760994638478118912",
+        "location": "距离冰岛 9999 千米的小众岛",
+        "name": "kkkbzydizzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032695415985025026/MxZ8Z_TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 985,
+          "like_count": 30904,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 5091
+        },
+        "username": "3timesdie333",
+        "verified": false
+      }
+    ]
+  }
+}

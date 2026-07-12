@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063635039796269056"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063635054283407456",
+    "created_at": "2026-06-07T14:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063635054283407456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eHFhDShlQX",
+          "end": 103,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063635054283407456/photo/1",
+          "media_key": "3_2063635039796269056",
+          "start": 80,
+          "url": "https://t.co/eHFhDShlQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063635054283407456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我还资助过一个妹妹 她没有户口和母亲跑了父亲丢下长期家暴…盐制肉鸦用生活费勉强撑起了她的小家 和她的小爱好 我也干了 只是这样看到幸福很开心 以后看不到了 https://t.co/eHFhDShlQX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063635054283407456].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063635054283407456",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063635054283407456"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063635039796269056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOBIpUbEAAvw8s.jpg",
+        "width": 1062
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 160,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 325
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

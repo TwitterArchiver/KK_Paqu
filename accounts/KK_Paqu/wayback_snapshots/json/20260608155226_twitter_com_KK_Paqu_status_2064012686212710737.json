@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064012676163080192"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2064012686212710737",
+    "created_at": "2026-06-08T15:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064012686212710737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840046947115380736",
+          "start": 0,
+          "username": "momo13388788781"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aieVbBgqc1",
+          "end": 67,
+          "expanded_url": "https://x.com/KK_Paqu/status/2064012686212710737/photo/1",
+          "media_key": "3_2064012676163080192",
+          "start": 44,
+          "url": "https://t.co/aieVbBgqc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064012686212710737",
+    "in_reply_to_user_id": "1840046947115380736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@momo13388788781 就算人类让你心寒我也喜欢你 外星鸦真的很喜欢你喜欢你 https://t.co/aieVbBgqc1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064012686212710737].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064012686212710737",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064012686212710737"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064012676163080192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTYl-aakAABIKr.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 166,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 373
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:12:42.000Z",
+        "description": "‖ shtwt人 ，广泛性焦虑&双相&ctpsd —07年8月生日，理想主义\\热爱艺术🧠艺术＝生命⚠️请注意我不是mtf而是铁血中国女人，我没有任何异性倾向，我也不希望被当成男性对待😈各种友好除鉴证，跟我谈论政治内容请出示65分以上高考政治试卷以及编制内证明👌群体包容度极高，扩列随意每条信息必回不冷暴力任何🤤‖",
+        "id": "1840046947115380736",
+        "location": "理想终点",
+        "name": "mo-overdose988🔪",
+        "pinned_tweet_id": "2039748663061491992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058628182107103232/sZCUZNMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 171,
+          "like_count": 10624,
+          "listed_count": 2,
+          "media_count": 914,
+          "tweet_count": 6416
+        },
+        "username": "momo13388788781",
+        "verified": false
+      }
+    ]
+  }
+}

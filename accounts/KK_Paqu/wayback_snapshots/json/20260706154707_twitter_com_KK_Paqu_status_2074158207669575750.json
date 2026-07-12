@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2073668918884147506",
+    "created_at": "2026-07-06T15:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074158207669575750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2073420644109504513",
+          "start": 0,
+          "username": "IYDKMIGTHTKY23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074158207669575750",
+    "in_reply_to_user_id": "2073420644109504513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073668918884147506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IYDKMIGTHTKY23 怎么你也😭宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 337,
+        "media_key": "3_2073668916782702592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcm5J6aIAAWWKE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2073668918884147506",
+        "created_at": "2026-07-06T15:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074158207669575750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2073420644109504513",
+              "start": 0,
+              "username": "IYDKMIGTHTKY23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074158207669575750",
+        "in_reply_to_user_id": "2073420644109504513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073668918884147506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IYDKMIGTHTKY23 怎么你也😭宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073668916782702592"
+          ]
+        },
+        "author_id": "2073420644109504513",
+        "conversation_id": "2073668918884147506",
+        "created_at": "2026-07-05T07:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073668918884147506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQKBvQaBjv",
+              "end": 60,
+              "expanded_url": "https://x.com/IYDKMIGTHTKY23/status/2073668918884147506/photo/1",
+              "media_key": "3_2073668916782702592",
+              "start": 37,
+              "url": "https://t.co/OQKBvQaBjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073668918884147506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1183,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "㊗️馬斯克拉屎拉到脫肛\n不知道被炸幾次了，又要從頭開始\nRAP我的前世們 https://t.co/OQKBvQaBjv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 216,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 754
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "我是歐姆，馬斯克又把我炸了，幫忙點點轉發尋回失散的互關感激不盡\n線下約麻煩私這個帳➡️ @omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "omo20060903"
+              }
+            ]
+          }
+        },
+        "id": "2073420644109504513",
+        "name": "？（3.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073630984806047745/lMVVljII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 104,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false
+      }
+    ]
+  }
+}

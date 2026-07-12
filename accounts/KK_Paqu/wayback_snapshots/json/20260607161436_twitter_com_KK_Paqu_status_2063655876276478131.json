@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063655867992678400",
+        "3_2063655867988537344"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063655876276478131",
+    "created_at": "2026-06-07T16:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063655876276478131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/47Ut7t1Ent",
+          "end": 29,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063655876276478131/photo/1",
+          "media_key": "3_2063655867992678400",
+          "start": 6,
+          "url": "https://t.co/47Ut7t1Ent"
+        },
+        {
+          "display_url": "pic.x.com/47Ut7t1Ent",
+          "end": 29,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063655876276478131/photo/1",
+          "media_key": "3_2063655867988537344",
+          "start": 6,
+          "url": "https://t.co/47Ut7t1Ent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063655876276478131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吸氧精神了 https://t.co/47Ut7t1Ent"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063655876276478131].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063655876276478131",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063655876276478131"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063655867992678400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOUFAZaoAAmknu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063655867988537344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOUFAYbcAAUI1P.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 161,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 333
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2072669836581499333",
+    "created_at": "2026-07-02T13:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072669836581499333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fillejenf/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/fillejenf/status/2072091777725858052",
+          "start": 32,
+          "url": "https://t.co/U7FOvIsmbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072669836581499333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072091777725858052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有钱人造什么都可以好好戒掉回归生活 穷鬼什么也得不到还葬送一生 https://t.co/U7FOvIsmbm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_2072091769164926976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGMfFMWEAALN1V.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2072669836581499333",
+        "created_at": "2026-07-02T13:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072669836581499333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fillejenf/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/fillejenf/status/2072091777725858052",
+              "start": 32,
+              "url": "https://t.co/U7FOvIsmbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072669836581499333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072091777725858052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有钱人造什么都可以好好戒掉回归生活 穷鬼什么也得不到还葬送一生 https://t.co/U7FOvIsmbm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072091769164926976"
+          ]
+        },
+        "author_id": "889609405905371138",
+        "conversation_id": "2072091777725858052",
+        "created_at": "2026-06-30T22:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072091777725858052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mu90NOJNai",
+              "end": 84,
+              "expanded_url": "https://x.com/fillejenf/status/2072091777725858052/photo/1",
+              "media_key": "3_2072091769164926976",
+              "start": 61,
+              "url": "https://t.co/Mu90NOJNai"
+            },
+            {
+              "display_url": "x.com/kookherondale/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/kookherondale/status/2071429645401038858",
+              "start": 85,
+              "url": "https://t.co/2ai8Zqo4bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072091777725858052",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 960,
+          "impression_count": 266156,
+          "like_count": 26288,
+          "quote_count": 57,
+          "reply_count": 75,
+          "retweet_count": 3208
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071429645401038858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "como odio a la gente con plata mientras tanto yo siendo este https://t.co/Mu90NOJNai https://t.co/2ai8Zqo4bu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 210,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 698
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-24T22:13:05.000Z",
+        "description": "WOR$T GIRL IN NCITY",
+        "id": "889609405905371138",
+        "location": "05.",
+        "name": "ؘ",
+        "pinned_tweet_id": "2062730707969933532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060162318072238086/WahbwJWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 625,
+          "like_count": 482844,
+          "listed_count": 4,
+          "media_count": 5688,
+          "tweet_count": 60543
+        },
+        "url": "",
+        "username": "fillejenf",
+        "verified": false
+      }
+    ]
+  }
+}

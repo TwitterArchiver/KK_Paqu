@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061815938253496320"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2061815951998296156",
+    "created_at": "2026-06-02T14:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061815951998296156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ejsLDo1hjL",
+          "end": 29,
+          "expanded_url": "https://x.com/KK_Paqu/status/2061815951998296156/photo/1",
+          "media_key": "3_2061815938253496320",
+          "start": 6,
+          "url": "https://t.co/ejsLDo1hjL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061815951998296156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "六一礼物！ https://t.co/ejsLDo1hjL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1388,
+        "media_key": "3_2061815938253496320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0Kq__WoAAXPzz.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061815938253496320"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061815951998296156",
+        "created_at": "2026-06-02T14:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061815951998296156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejsLDo1hjL",
+              "end": 29,
+              "expanded_url": "https://x.com/KK_Paqu/status/2061815951998296156/photo/1",
+              "media_key": "3_2061815938253496320",
+              "start": 6,
+              "url": "https://t.co/ejsLDo1hjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061815951998296156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六一礼物！ https://t.co/ejsLDo1hjL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 81,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 100
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

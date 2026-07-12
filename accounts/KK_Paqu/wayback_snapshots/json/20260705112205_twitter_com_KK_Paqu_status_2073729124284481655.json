@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073729104386588672",
+        "3_2073729104323739650",
+        "3_2073729104327942144"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2073729124284481655",
+    "created_at": "2026-07-05T11:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073729124284481655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H8zWXadH32",
+          "end": 28,
+          "expanded_url": "https://x.com/KK_Paqu/status/2073729124284481655/photo/1",
+          "media_key": "3_2073729104386588672",
+          "start": 5,
+          "url": "https://t.co/H8zWXadH32"
+        },
+        {
+          "display_url": "pic.x.com/H8zWXadH32",
+          "end": 28,
+          "expanded_url": "https://x.com/KK_Paqu/status/2073729124284481655/photo/1",
+          "media_key": "3_2073729104323739650",
+          "start": 5,
+          "url": "https://t.co/H8zWXadH32"
+        },
+        {
+          "display_url": "pic.x.com/H8zWXadH32",
+          "end": 28,
+          "expanded_url": "https://x.com/KK_Paqu/status/2073729124284481655/photo/1",
+          "media_key": "3_2073729104327942144",
+          "start": 5,
+          "url": "https://t.co/H8zWXadH32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073729124284481655",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近结算 https://t.co/H8zWXadH32"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073729104386588672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMddoiNaAAAv4NV.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073729104323739650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMddoh-bAAILhmZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073729104327942144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMddoh_bIAAoYUT.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073729104386588672",
+            "3_2073729104323739650",
+            "3_2073729104327942144"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2073729124284481655",
+        "created_at": "2026-07-05T11:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073729124284481655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8zWXadH32",
+              "end": 28,
+              "expanded_url": "https://x.com/KK_Paqu/status/2073729124284481655/photo/1",
+              "media_key": "3_2073729104386588672",
+              "start": 5,
+              "url": "https://t.co/H8zWXadH32"
+            },
+            {
+              "display_url": "pic.x.com/H8zWXadH32",
+              "end": 28,
+              "expanded_url": "https://x.com/KK_Paqu/status/2073729124284481655/photo/1",
+              "media_key": "3_2073729104323739650",
+              "start": 5,
+              "url": "https://t.co/H8zWXadH32"
+            },
+            {
+              "display_url": "pic.x.com/H8zWXadH32",
+              "end": 28,
+              "expanded_url": "https://x.com/KK_Paqu/status/2073729124284481655/photo/1",
+              "media_key": "3_2073729104327942144",
+              "start": 5,
+              "url": "https://t.co/H8zWXadH32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073729124284481655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近结算 https://t.co/H8zWXadH32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 214,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

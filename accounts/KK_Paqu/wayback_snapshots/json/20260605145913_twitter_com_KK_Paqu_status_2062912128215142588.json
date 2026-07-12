@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062787794737786880"
+      ],
+      "media_source_tweet_id": [
+        "2062787855630659851"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2062912128215142588",
+    "created_at": "2026-06-05T14:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062912128215142588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1275271694018473986",
+          "start": 3,
+          "username": "yuzuyooja"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jmN2cAcUUT",
+          "end": 106,
+          "expanded_url": "https://x.com/yuzuyooja/status/2062787855630659851/video/1",
+          "media_key": "13_2062787794737786880",
+          "start": 83,
+          "url": "https://t.co/jmN2cAcUUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062912128215142588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 796
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062787855630659851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzuyooja: fan animation 👊👊\n\n🎵: 文系ギャング・マーケット - てにをは(teniwoha) ft. kagamine len https://t.co/jmN2cAcUUT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26625,
+        "height": 720,
+        "media_key": "13_2062787794737786880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062787794737786880/img/t0659q6zFQ6Ut4C-.jpg",
+        "public_metrics": {
+          "view_count": 35977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062787794737786880/vid/avc1/480x270/z1CWxJ5Ppq_qBjQ1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062787794737786880/vid/avc1/640x360/wmGiX1uXRjBE6vzA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062787794737786880/vid/avc1/1280x720/PRE3XixCgJWyCBwv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062787794737786880/pl/6yIsgL_hG8tPn0j0.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062787794737786880"
+          ],
+          "media_source_tweet_id": [
+            "2062787855630659851"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2062912128215142588",
+        "created_at": "2026-06-05T14:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062912128215142588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1275271694018473986",
+              "start": 3,
+              "username": "yuzuyooja"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmN2cAcUUT",
+              "end": 106,
+              "expanded_url": "https://x.com/yuzuyooja/status/2062787855630659851/video/1",
+              "media_key": "13_2062787794737786880",
+              "start": 83,
+              "url": "https://t.co/jmN2cAcUUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062912128215142588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 796
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062787855630659851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzuyooja: fan animation 👊👊\n\n🎵: 文系ギャング・マーケット - てにをは(teniwoha) ft. kagamine len https://t.co/jmN2cAcUUT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062787794737786880"
+          ]
+        },
+        "author_id": "1275271694018473986",
+        "conversation_id": "2062787855630659851",
+        "created_at": "2026-06-05T06:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062787855630659851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jmN2cAcUUT",
+              "end": 91,
+              "expanded_url": "https://x.com/yuzuyooja/status/2062787855630659851/video/1",
+              "media_key": "13_2062787794737786880",
+              "start": 68,
+              "url": "https://t.co/jmN2cAcUUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062787855630659851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1185,
+          "impression_count": 84380,
+          "like_count": 3524,
+          "quote_count": 63,
+          "reply_count": 2,
+          "retweet_count": 796
+        },
+        "reply_settings": "everyone",
+        "text": "fan animation 👊👊\n\n🎵: 文系ギャング・マーケット - てにをは(teniwoha) ft. kagamine len https://t.co/jmN2cAcUUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 143,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 218
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-23T03:37:32.000Z",
+        "description": "animator for UNBEATABLE! repost 🆗 with credit … my other art 👉👉 @yuja1227",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "yuja1227"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yuzuyooja/fea…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yuzuyooja/featured",
+                "start": 0,
+                "url": "https://t.co/9dLYtRzUxE"
+              }
+            ]
+          }
+        },
+        "id": "1275271694018473986",
+        "location": "🚫AI",
+        "name": "✨yuzu✨",
+        "pinned_tweet_id": "1712377681088844140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657573077822345216/G98URhFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9872,
+          "following_count": 470,
+          "like_count": 19811,
+          "listed_count": 37,
+          "media_count": 177,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/9dLYtRzUxE",
+        "username": "yuzuyooja",
+        "verified": false
+      }
+    ]
+  }
+}

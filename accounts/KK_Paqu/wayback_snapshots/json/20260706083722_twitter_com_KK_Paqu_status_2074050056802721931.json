@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2073853369048059911",
+    "created_at": "2026-07-06T08:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074050056802721931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069247012382646272",
+          "start": 0,
+          "username": "mo2overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074050056802721931",
+    "in_reply_to_user_id": "2069247012382646272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073853369048059911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo2overdose 我爱你😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2073853364270669824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfOpaWaIAAUWs5.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2073853369048059911",
+        "created_at": "2026-07-06T08:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074050056802721931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069247012382646272",
+              "start": 0,
+              "username": "mo2overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074050056802721931",
+        "in_reply_to_user_id": "2069247012382646272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073853369048059911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo2overdose 我爱你😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073853364270669824"
+          ]
+        },
+        "author_id": "2069247012382646272",
+        "conversation_id": "2073853369048059911",
+        "created_at": "2026-07-05T19:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073853369048059911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzvOCbSUnq",
+              "end": 28,
+              "expanded_url": "https://x.com/mo2overdose/status/2073853369048059911/photo/1",
+              "media_key": "3_2073853364270669824",
+              "start": 5,
+              "url": "https://t.co/kzvOCbSUnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073853369048059911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起。 https://t.co/kzvOCbSUnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 215,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T02:41:54.000Z",
+        "description": "前世：momo13388788781\n很高兴你找到我了！😧\n\n这里是来自母星为火星外星人本体的林momo👽很高兴见到你！【因为精神问题太严重导致无法与普通人类拥有认同感，遂认定自己是火星人的mo】\n\n我是水仙自推🥺💖 目前精神残疾正在尝试画画谋生😭",
+        "id": "2069247012382646272",
+        "location": "wonderland",
+        "name": "mo-overdose(3.0)",
+        "pinned_tweet_id": "2069254110931788265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072763991580098560/lkcZIyvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 18,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "mo2overdose",
+        "verified": false
+      }
+    ]
+  }
+}

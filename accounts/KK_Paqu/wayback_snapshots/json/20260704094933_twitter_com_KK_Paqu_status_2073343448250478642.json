@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073000450429775872"
+      ],
+      "media_source_tweet_id": [
+        "2073000465868968022"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2073343448250478642",
+    "created_at": "2026-07-04T09:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073343448250478642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1242399564591579136",
+          "start": 3,
+          "username": "Segven703"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8sZWhxyIea",
+          "end": 38,
+          "expanded_url": "https://x.com/Segven703/status/2073000465868968022/photo/1",
+          "media_key": "3_2073000450429775872",
+          "start": 15,
+          "url": "https://t.co/8sZWhxyIea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073343448250478642",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 731
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073000465868968022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Segven703: https://t.co/8sZWhxyIea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2073000450429775872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTG7SsXcAAEmw1.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073000450429775872"
+          ],
+          "media_source_tweet_id": [
+            "2073000465868968022"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2073343448250478642",
+        "created_at": "2026-07-04T09:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073343448250478642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1242399564591579136",
+              "start": 3,
+              "username": "Segven703"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8sZWhxyIea",
+              "end": 38,
+              "expanded_url": "https://x.com/Segven703/status/2073000465868968022/photo/1",
+              "media_key": "3_2073000450429775872",
+              "start": 15,
+              "url": "https://t.co/8sZWhxyIea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073343448250478642",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 731
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073000465868968022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Segven703: https://t.co/8sZWhxyIea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073000450429775872"
+          ]
+        },
+        "author_id": "1242399564591579136",
+        "conversation_id": "2073000465868968022",
+        "created_at": "2026-07-03T11:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073000465868968022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8sZWhxyIea",
+              "end": 23,
+              "expanded_url": "https://x.com/Segven703/status/2073000465868968022/photo/1",
+              "media_key": "3_2073000450429775872",
+              "start": 0,
+              "url": "https://t.co/8sZWhxyIea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073000465868968022",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 535,
+          "impression_count": 27412,
+          "like_count": 4526,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 731
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8sZWhxyIea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 214,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-24T10:35:30.000Z",
+        "description": "＝七代｜20↑｜中文/翻译器｜头像来自友人@Meota_XD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "Meota_XD"
+              }
+            ]
+          }
+        },
+        "id": "1242399564591579136",
+        "name": "Segven",
+        "pinned_tweet_id": "2071448096446558352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071608927738028032/rapfr-6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4830,
+          "following_count": 118,
+          "like_count": 1666,
+          "listed_count": 17,
+          "media_count": 232,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "Segven703",
+        "verified": false
+      }
+    ]
+  }
+}

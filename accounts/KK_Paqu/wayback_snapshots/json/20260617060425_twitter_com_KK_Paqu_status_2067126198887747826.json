@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2067126198887747826",
+    "created_at": "2026-06-17T06:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067126198887747826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1583317300152651776",
+          "start": 3,
+          "username": "Tsuki_NekoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067126198887747826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065693537312887203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tsuki_NekoY: Rikana于6.13服用过量阿普唑仑阿普唑仑、艾司唑仑、普瑞巴林企图自杀 而导致失禁昏迷濒死。后经有关人士拨打120 目前已经在ICU脱离危险，ICU一晚需要10000元 Rikana支付不起 请门槛哥门槛姐各位善良的围观群众帮帮这只可怜的猫…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2065693526600663040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrRUWPbQAATRK1.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065693526680309760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrRUWiakAAWpDo.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2067126198887747826",
+        "created_at": "2026-06-17T06:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067126198887747826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1583317300152651776",
+              "start": 3,
+              "username": "Tsuki_NekoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067126198887747826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065693537312887203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tsuki_NekoY: Rikana于6.13服用过量阿普唑仑阿普唑仑、艾司唑仑、普瑞巴林企图自杀 而导致失禁昏迷濒死。后经有关人士拨打120 目前已经在ICU脱离危险，ICU一晚需要10000元 Rikana支付不起 请门槛哥门槛姐各位善良的围观群众帮帮这只可怜的猫…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065693526600663040",
+            "3_2065693526680309760"
+          ]
+        },
+        "author_id": "1583317300152651776",
+        "conversation_id": "2065693537312887203",
+        "created_at": "2026-06-13T07:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065693537312887203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mkOGYuzfst",
+              "end": 148,
+              "expanded_url": "https://x.com/Tsuki_NekoY/status/2065693537312887203/photo/1",
+              "media_key": "3_2065693526600663040",
+              "start": 125,
+              "url": "https://t.co/mkOGYuzfst"
+            },
+            {
+              "display_url": "pic.x.com/mkOGYuzfst",
+              "end": 148,
+              "expanded_url": "https://x.com/Tsuki_NekoY/status/2065693537312887203/photo/1",
+              "media_key": "3_2065693526680309760",
+              "start": 125,
+              "url": "https://t.co/mkOGYuzfst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065693537312887203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3808,
+          "like_count": 10,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Rikana于6.13服用过量阿普唑仑阿普唑仑、艾司唑仑、普瑞巴林企图自杀 而导致失禁昏迷濒死。后经有关人士拨打120 目前已经在ICU脱离危险，ICU一晚需要10000元 Rikana支付不起 请门槛哥门槛姐各位善良的围观群众帮帮这只可怜的猫！！ https://t.co/mkOGYuzfst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 186,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 515
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T04:40:54.000Z",
+        "description": "転載禁止/已绝育/⚓️/🎀🐾/無性別/Sakuraの猫猫/➡️裏@SakuraNekosama/⚠️⚠️⚠️私信只回口令红包❌❌❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "SakuraNekosama"
+              }
+            ]
+          }
+        },
+        "id": "1583317300152651776",
+        "location": "東京  🚪188/520",
+        "name": "Rikana",
+        "pinned_tweet_id": "1983203994878259244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038313682460192768/aOXw17N0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4763,
+          "following_count": 62,
+          "like_count": 1968,
+          "listed_count": 13,
+          "media_count": 401,
+          "tweet_count": 2617
+        },
+        "url": "",
+        "username": "Tsuki_NekoY",
+        "verified": false
+      }
+    ]
+  }
+}

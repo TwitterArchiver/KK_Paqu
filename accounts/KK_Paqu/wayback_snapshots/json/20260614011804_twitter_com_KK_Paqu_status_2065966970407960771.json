@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2065819350481989887",
+    "created_at": "2026-06-14T01:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065966970407960771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1012078861784354816",
+          "start": 0,
+          "username": "2d4SEUFUBFzltqB"
+        },
+        {
+          "end": 25,
+          "id": "2041095876417122305",
+          "start": 17,
+          "username": "Yihuiam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065966970407960771",
+    "in_reply_to_user_id": "1012078861784354816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065819350481989887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2d4SEUFUBFzltqB @Yihuiam 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2065819350481989887",
+        "created_at": "2026-06-14T01:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065966970407960771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1012078861784354816",
+              "start": 0,
+              "username": "2d4SEUFUBFzltqB"
+            },
+            {
+              "end": 25,
+              "id": "2041095876417122305",
+              "start": 17,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065966970407960771",
+        "in_reply_to_user_id": "1012078861784354816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065819350481989887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2d4SEUFUBFzltqB @Yihuiam 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012078861784354816",
+        "conversation_id": "2065819350481989887",
+        "created_at": "2026-06-13T15:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:29:02.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065818735114649926",
+          "2065819150719807998",
+          "2065819350481989887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065819350481989887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我也要做慈善\n一等奖：苯乙胺盐酸盐4g或者pr原料45g\n二等奖：苯乙胺盐酸盐3g或者pr原料35g\n三等奖：苯乙胺盐酸盐2g或者pr原料25g\n30人开抽，不包邮噢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 174,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 459
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T21:02:58.000Z",
+        "description": "爱你们",
+        "id": "1012078861784354816",
+        "name": "爱你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065730063547695104/2s-iVBmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 7,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "2d4SEUFUBFzltqB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂\n喜欢致幻剂///音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Hendry540558"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 513,
+          "like_count": 1566,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 141
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

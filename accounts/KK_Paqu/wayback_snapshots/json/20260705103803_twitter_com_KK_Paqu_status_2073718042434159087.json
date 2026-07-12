@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2073718042434159087",
+    "created_at": "2026-07-05T10:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073718042434159087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayahuasca6948/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/ayahuasca6948/status/2073464965495935371",
+          "start": 20,
+          "url": "https://t.co/3y7QjMOWOI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073718042434159087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073464965495935371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们巨蟹吃的就这么解离\n重度抗抑郁谢谢 https://t.co/3y7QjMOWOI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2073718042434159087",
+        "created_at": "2026-07-05T10:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073718042434159087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayahuasca6948/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/ayahuasca6948/status/2073464965495935371",
+              "start": 20,
+              "url": "https://t.co/3y7QjMOWOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073718042434159087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073464965495935371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们巨蟹吃的就这么解离\n重度抗抑郁谢谢 https://t.co/3y7QjMOWOI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053188363566391296",
+        "conversation_id": "2073464965495935371",
+        "created_at": "2026-07-04T17:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073464965495935371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073464965495935371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1203,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十二星座選擇你的專屬致幻劑\n白羊座：DMT\n金牛座：LSD\n双子座：PCP\n巨蟹座：氯胺酮\n狮子座：DXM\n处女座：裸蓋菇\n天秤座：苯海拉明\n天蝎座：MDMA\n射手座：大麻\n摩羯座：金剛烷胺\n水瓶座：4-HO-MET\n双鱼座：笑氣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 214,
+          "like_count": 913,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T19:00:39.000Z",
+        "description": "死藤水改革歸來，看廣州禁毒土崩瓦解，化學極樂的日子終將到來。",
+        "id": "2053188363566391296",
+        "name": "Aya",
+        "pinned_tweet_id": "2056634860186530096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069508917999353856/8ij5Dnh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 31,
+          "like_count": 6556,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 599
+        },
+        "url": "",
+        "username": "ayahuasca6948",
+        "verified": false
+      }
+    ]
+  }
+}

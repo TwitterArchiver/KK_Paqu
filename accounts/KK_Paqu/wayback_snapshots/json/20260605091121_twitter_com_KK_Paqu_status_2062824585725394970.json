@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2062824585725394970",
+    "created_at": "2026-06-05T09:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062824585725394970"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062824585725394970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最近总和小情侣们一起玩\n大家要99加我真的和你们好开心！我是一个凑热闹的外星人 我和我焦虑友情欢关系朋友问了 她现实生活很忙 不是不想和我玩😭不讨厌我 最近好开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2062824585725394970",
+        "created_at": "2026-06-05T09:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062824585725394970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062824585725394970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最近总和小情侣们一起玩\n大家要99加我真的和你们好开心！我是一个凑热闹的外星人 我和我焦虑友情欢关系朋友问了 她现实生活很忙 不是不想和我玩😭不讨厌我 最近好开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 140,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 184
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063884647029985280",
+        "3_2063884647042576384"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2063884653631869335",
+    "created_at": "2026-06-08T07:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063884653631869335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TpbW2DA0uT",
+          "end": 32,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063884653631869335/photo/1",
+          "media_key": "3_2063884647029985280",
+          "start": 9,
+          "url": "https://t.co/TpbW2DA0uT"
+        },
+        {
+          "display_url": "pic.x.com/TpbW2DA0uT",
+          "end": 32,
+          "expanded_url": "https://x.com/KK_Paqu/status/2063884653631869335/photo/1",
+          "media_key": "3_2063884647042576384",
+          "start": 9,
+          "url": "https://t.co/TpbW2DA0uT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063884653631869335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个小妹妹给我的 https://t.co/TpbW2DA0uT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063884653631869335].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063884653631869335",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063884653631869335"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063884647029985280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRkJsua0AATKz2.jpg",
+        "width": 742
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2063884647042576384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRkJsxa8AABFFV.jpg",
+        "width": 744
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 165,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 356
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}
