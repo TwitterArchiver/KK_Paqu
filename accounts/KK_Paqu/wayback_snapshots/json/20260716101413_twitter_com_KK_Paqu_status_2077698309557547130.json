@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077698263386644480",
+        "13_2077698263390760961"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2077698309557547130",
+    "created_at": "2026-07-16T10:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077698309557547130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IK5mb32A8h",
+          "end": 29,
+          "expanded_url": "https://x.com/KK_Paqu/status/2077698309557547130/video/1",
+          "media_key": "3_2077698263386644480",
+          "start": 6,
+          "url": "https://t.co/IK5mb32A8h"
+        },
+        {
+          "display_url": "pic.x.com/IK5mb32A8h",
+          "end": 29,
+          "expanded_url": "https://x.com/KK_Paqu/status/2077698309557547130/video/1",
+          "media_key": "13_2077698263390760961",
+          "start": 6,
+          "url": "https://t.co/IK5mb32A8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077698309557547130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生日快乐🎂 https://t.co/IK5mb32A8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077698263386644480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV3j_ubYAAQWzt.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 22011,
+        "height": 960,
+        "media_key": "13_2077698263390760961",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077698263390760961/img/Ko6nAOSqOv3u7mm-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077698263390760961/vid/avc1/320x568/3X-rdZFcXcT1vr8m.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077698263390760961/vid/avc1/480x852/XdPfLWpH3Gbity-7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077698263390760961/vid/avc1/540x960/m_hAUdKNBhM4PSxP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077698263390760961/pl/TCywKEBOF8GPZg-u.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077698263386644480",
+            "13_2077698263390760961"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2077698309557547130",
+        "created_at": "2026-07-16T10:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077698309557547130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IK5mb32A8h",
+              "end": 29,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077698309557547130/video/1",
+              "media_key": "3_2077698263386644480",
+              "start": 6,
+              "url": "https://t.co/IK5mb32A8h"
+            },
+            {
+              "display_url": "pic.x.com/IK5mb32A8h",
+              "end": 29,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077698309557547130/video/1",
+              "media_key": "13_2077698263390760961",
+              "start": 6,
+              "url": "https://t.co/IK5mb32A8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077698309557547130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日快乐🎂 https://t.co/IK5mb32A8h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 219,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 850
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

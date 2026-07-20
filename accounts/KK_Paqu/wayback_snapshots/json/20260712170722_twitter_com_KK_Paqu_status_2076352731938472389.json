@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076352677194424320",
+        "3_2076352677282488320",
+        "3_2076352677186097152",
+        "3_2076352677660053504"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076352731938472389",
+    "created_at": "2026-07-12T17:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076352731938472389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qp6pefv85J",
+          "end": 36,
+          "expanded_url": "https://x.com/KK_Paqu/status/2076352731938472389/photo/1",
+          "media_key": "3_2076352677194424320",
+          "start": 13,
+          "url": "https://t.co/Qp6pefv85J"
+        },
+        {
+          "display_url": "pic.x.com/Qp6pefv85J",
+          "end": 36,
+          "expanded_url": "https://x.com/KK_Paqu/status/2076352731938472389/photo/1",
+          "media_key": "3_2076352677282488320",
+          "start": 13,
+          "url": "https://t.co/Qp6pefv85J"
+        },
+        {
+          "display_url": "pic.x.com/Qp6pefv85J",
+          "end": 36,
+          "expanded_url": "https://x.com/KK_Paqu/status/2076352731938472389/photo/1",
+          "media_key": "3_2076352677186097152",
+          "start": 13,
+          "url": "https://t.co/Qp6pefv85J"
+        },
+        {
+          "display_url": "pic.x.com/Qp6pefv85J",
+          "end": 36,
+          "expanded_url": "https://x.com/KK_Paqu/status/2076352731938472389/photo/1",
+          "media_key": "3_2076352677660053504",
+          "start": 13,
+          "url": "https://t.co/Qp6pefv85J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076352731938472389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友烧菜和大家一起去天台 https://t.co/Qp6pefv85J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2076352677194424320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCvwkia4AA6cwc.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2076352677282488320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCvwk3aoAA0a-U.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076352677186097152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCvwkgb0AA15yz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076352677660053504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCvwmRb0AALZkF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076352677194424320",
+            "3_2076352677282488320",
+            "3_2076352677186097152",
+            "3_2076352677660053504"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076352731938472389",
+        "created_at": "2026-07-12T17:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076352731938472389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qp6pefv85J",
+              "end": 36,
+              "expanded_url": "https://x.com/KK_Paqu/status/2076352731938472389/photo/1",
+              "media_key": "3_2076352677194424320",
+              "start": 13,
+              "url": "https://t.co/Qp6pefv85J"
+            },
+            {
+              "display_url": "pic.x.com/Qp6pefv85J",
+              "end": 36,
+              "expanded_url": "https://x.com/KK_Paqu/status/2076352731938472389/photo/1",
+              "media_key": "3_2076352677282488320",
+              "start": 13,
+              "url": "https://t.co/Qp6pefv85J"
+            },
+            {
+              "display_url": "pic.x.com/Qp6pefv85J",
+              "end": 36,
+              "expanded_url": "https://x.com/KK_Paqu/status/2076352731938472389/photo/1",
+              "media_key": "3_2076352677186097152",
+              "start": 13,
+              "url": "https://t.co/Qp6pefv85J"
+            },
+            {
+              "display_url": "pic.x.com/Qp6pefv85J",
+              "end": 36,
+              "expanded_url": "https://x.com/KK_Paqu/status/2076352731938472389/photo/1",
+              "media_key": "3_2076352677660053504",
+              "start": 13,
+              "url": "https://t.co/Qp6pefv85J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076352731938472389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友烧菜和大家一起去天台 https://t.co/Qp6pefv85J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 218,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 827
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077616355684298752"
+      ],
+      "media_source_tweet_id": [
+        "2077616407312040398"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2077828085047799838",
+    "created_at": "2026-07-16T18:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077828085047799838"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 56,
+          "tag": "DegreesofLewdity"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "DoL"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1993637601862131712",
+          "start": 3,
+          "username": "ccxmyelyiaeli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tq81jxjjjY",
+          "end": 102,
+          "expanded_url": "https://x.com/ccxmyelyiaeli/status/2077616407312040398/video/1",
+          "media_key": "13_2077616355684298752",
+          "start": 79,
+          "url": "https://t.co/tq81jxjjjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077828085047799838",
+    "lang": "lt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077616407312040398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccxmyelyiaeli: DoL x SukiSukiDaisuki — ib : VIVINOS\n#DegreesofLewdity #DoL https://t.co/tq81jxjjjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28305,
+        "height": 720,
+        "media_key": "13_2077616355684298752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077616355684298752/img/YarY4SGoFzfNpaGA.jpg",
+        "public_metrics": {
+          "view_count": 2399
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077616355684298752/vid/avc1/360x270/dxBGOkoP1AZIyWS8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077616355684298752/vid/avc1/480x360/TEdlkWbaS9FyAcxr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077616355684298752/vid/avc1/960x720/GfIqv9wkKIkYnjNd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077616355684298752/pl/8sixLACO2K4CiZGg.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077616355684298752"
+          ]
+        },
+        "author_id": "1993637601862131712",
+        "conversation_id": "2077616407312040398",
+        "created_at": "2026-07-16T04:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077616407312040398"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 37,
+              "tag": "DegreesofLewdity"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "DoL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tq81jxjjjY",
+              "end": 83,
+              "expanded_url": "https://x.com/ccxmyelyiaeli/status/2077616407312040398/video/1",
+              "media_key": "13_2077616355684298752",
+              "start": 60,
+              "url": "https://t.co/tq81jxjjjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077616407312040398",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 4234,
+          "like_count": 460,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "DoL x SukiSukiDaisuki — ib : VIVINOS\n#DegreesofLewdity #DoL https://t.co/tq81jxjjjY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077616355684298752"
+          ],
+          "media_source_tweet_id": [
+            "2077616407312040398"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2077828085047799838",
+        "created_at": "2026-07-16T18:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077828085047799838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 56,
+              "tag": "DegreesofLewdity"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "DoL"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1993637601862131712",
+              "start": 3,
+              "username": "ccxmyelyiaeli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tq81jxjjjY",
+              "end": 102,
+              "expanded_url": "https://x.com/ccxmyelyiaeli/status/2077616407312040398/video/1",
+              "media_key": "13_2077616355684298752",
+              "start": 79,
+              "url": "https://t.co/tq81jxjjjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077828085047799838",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077616407312040398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ccxmyelyiaeli: DoL x SukiSukiDaisuki — ib : VIVINOS\n#DegreesofLewdity #DoL https://t.co/tq81jxjjjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 220,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 859
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T11:07:12.000Z",
+        "description": "— 13 yrs old — Atheist — 160cm — Asean  ——   -✦sw: 75kg   cw : 59kg   gw : 55kg   ugw : 43kg✦- -✚#shtwt - #edtwt - #obslovetwt - #jpoptwt✚-",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "shtwt"
+              },
+              {
+                "end": 112,
+                "start": 106,
+                "tag": "edtwt"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "tag": "obslovetwt"
+              },
+              {
+                "end": 137,
+                "start": 129,
+                "tag": "jpoptwt"
+              }
+            ]
+          }
+        },
+        "id": "1993637601862131712",
+        "location": "aquarium",
+        "name": "Ely | edtwt🧊",
+        "pinned_tweet_id": "2036787454414610884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073933752124968960/0S9gXVH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 371,
+          "like_count": 1797,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 832
+        },
+        "url": "",
+        "username": "ccxmyelyiaeli",
+        "verified": false
+      }
+    ]
+  }
+}

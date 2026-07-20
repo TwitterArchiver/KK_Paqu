@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073897086102503424",
+        "3_2073897086060515328",
+        "3_2073897086064758784",
+        "3_2073897086094032896"
+      ],
+      "media_source_tweet_id": [
+        "2073897104230199753",
+        "2073897104230199753",
+        "2073897104230199753",
+        "2073897104230199753"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2076982607288643597",
+    "created_at": "2026-07-14T10:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076982607288643597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052994836266196992",
+          "start": 3,
+          "username": "Nanwhju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6Mzk4PuF1",
+          "end": 63,
+          "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+          "media_key": "3_2073897086102503424",
+          "start": 40,
+          "url": "https://t.co/s6Mzk4PuF1"
+        },
+        {
+          "display_url": "pic.x.com/s6Mzk4PuF1",
+          "end": 63,
+          "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+          "media_key": "3_2073897086060515328",
+          "start": 40,
+          "url": "https://t.co/s6Mzk4PuF1"
+        },
+        {
+          "display_url": "pic.x.com/s6Mzk4PuF1",
+          "end": 63,
+          "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+          "media_key": "3_2073897086064758784",
+          "start": 40,
+          "url": "https://t.co/s6Mzk4PuF1"
+        },
+        {
+          "display_url": "pic.x.com/s6Mzk4PuF1",
+          "end": 63,
+          "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+          "media_key": "3_2073897086094032896",
+          "start": 40,
+          "url": "https://t.co/s6Mzk4PuF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076982607288643597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073897104230199753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nanwhju: 讲得很好很专业，阿片类戒断反应的天花板，远离阿片类！ https://t.co/s6Mzk4PuF1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2073897086102503424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf2aW3bgAAj95Z.jpg",
+        "width": 1119
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2073897086060515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf2aWta0AAptp0.jpg",
+        "width": 1134
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2073897086064758784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf2aWubkAAzPZi.jpg",
+        "width": 1126
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2073897086094032896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf2aW1aQAAxl9z.jpg",
+        "width": 1119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073897086102503424",
+            "3_2073897086060515328",
+            "3_2073897086064758784",
+            "3_2073897086094032896"
+          ],
+          "media_source_tweet_id": [
+            "2073897104230199753",
+            "2073897104230199753",
+            "2073897104230199753",
+            "2073897104230199753"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2076982607288643597",
+        "created_at": "2026-07-14T10:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076982607288643597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052994836266196992",
+              "start": 3,
+              "username": "Nanwhju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 63,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086102503424",
+              "start": 40,
+              "url": "https://t.co/s6Mzk4PuF1"
+            },
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 63,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086060515328",
+              "start": 40,
+              "url": "https://t.co/s6Mzk4PuF1"
+            },
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 63,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086064758784",
+              "start": 40,
+              "url": "https://t.co/s6Mzk4PuF1"
+            },
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 63,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086094032896",
+              "start": 40,
+              "url": "https://t.co/s6Mzk4PuF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076982607288643597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073897104230199753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nanwhju: 讲得很好很专业，阿片类戒断反应的天花板，远离阿片类！ https://t.co/s6Mzk4PuF1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073897086102503424",
+            "3_2073897086060515328",
+            "3_2073897086064758784",
+            "3_2073897086094032896"
+          ]
+        },
+        "author_id": "2052994836266196992",
+        "conversation_id": "2073897104230199753",
+        "created_at": "2026-07-05T22:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073897104230199753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 50,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086102503424",
+              "start": 27,
+              "url": "https://t.co/s6Mzk4PuF1"
+            },
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 50,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086060515328",
+              "start": 27,
+              "url": "https://t.co/s6Mzk4PuF1"
+            },
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 50,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086064758784",
+              "start": 27,
+              "url": "https://t.co/s6Mzk4PuF1"
+            },
+            {
+              "display_url": "pic.x.com/s6Mzk4PuF1",
+              "end": 50,
+              "expanded_url": "https://x.com/Nanwhju/status/2073897104230199753/photo/1",
+              "media_key": "3_2073897086094032896",
+              "start": 27,
+              "url": "https://t.co/s6Mzk4PuF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073897104230199753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 10976,
+          "like_count": 63,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "讲得很好很专业，阿片类戒断反应的天花板，远离阿片类！ https://t.co/s6Mzk4PuF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 219,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T06:11:46.000Z",
+        "description": "楠教授三世：https://t.co/RgOC6C06xC\n\n飞机✈️客服专人回复，推特私信无人回复",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 29,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 6,
+                "url": "https://t.co/RgOC6C06xC"
+              }
+            ]
+          }
+        },
+        "id": "2052994836266196992",
+        "location": "专注一款产品",
+        "name": "分享4-ho-met不好体验//jiel全网倡议禁止阿片类",
+        "pinned_tweet_id": "2057661451872125082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053016318086201344/0a8jdtk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 315,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "Nanwhju",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016775160410624007"
+      ],
+      "media_source_tweet_id": [
+        "2016775317285982472"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076982195663901066",
+    "created_at": "2026-07-14T10:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076982195663901066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1993354903385964544",
+          "start": 3,
+          "username": "pppppzom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/41NJXGQ0Wj",
+          "end": 41,
+          "expanded_url": "https://x.com/pppppzom/status/2016775317285982472/photo/1",
+          "media_key": "3_2016775160410624007",
+          "start": 18,
+          "url": "https://t.co/41NJXGQ0Wj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076982195663901066",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1021
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016775317285982472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pppppzom: ㅋㅋㅋ https://t.co/41NJXGQ0Wj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2016775160410624007",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0GUrQbUAcc-UQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016775160410624007"
+          ],
+          "media_source_tweet_id": [
+            "2016775317285982472"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076982195663901066",
+        "created_at": "2026-07-14T10:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076982195663901066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1993354903385964544",
+              "start": 3,
+              "username": "pppppzom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/41NJXGQ0Wj",
+              "end": 41,
+              "expanded_url": "https://x.com/pppppzom/status/2016775317285982472/photo/1",
+              "media_key": "3_2016775160410624007",
+              "start": 18,
+              "url": "https://t.co/41NJXGQ0Wj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076982195663901066",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1021
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016775317285982472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pppppzom: ㅋㅋㅋ https://t.co/41NJXGQ0Wj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016775160410624007"
+          ]
+        },
+        "author_id": "1993354903385964544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016775317285982472",
+        "created_at": "2026-01-29T07:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016775317285982472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41NJXGQ0Wj",
+              "end": 27,
+              "expanded_url": "https://x.com/pppppzom/status/2016775317285982472/photo/1",
+              "media_key": "3_2016775160410624007",
+              "start": 4,
+              "url": "https://t.co/41NJXGQ0Wj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016775317285982472",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1836,
+          "impression_count": 356270,
+          "like_count": 7510,
+          "quote_count": 1499,
+          "reply_count": 132,
+          "retweet_count": 1021
+        },
+        "reply_settings": "everyone",
+        "text": "ㅋㅋㅋ https://t.co/41NJXGQ0Wj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 219,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T16:23:49.000Z",
+        "description": "adult / DoL Alex 좋아합니다^_^ 🧡❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alexspartnerjane.straw.page",
+                "end": 23,
+                "expanded_url": "https://alexspartnerjane.straw.page",
+                "start": 0,
+                "url": "https://t.co/nwN669cWWV"
+              }
+            ]
+          }
+        },
+        "id": "1993354903385964544",
+        "location": "i-블란님, h-바닷돌님",
+        "name": "쫌",
+        "pinned_tweet_id": "2059688383484739995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073995083373015040/2UNiYV3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 57,
+          "like_count": 6561,
+          "listed_count": 3,
+          "media_count": 272,
+          "tweet_count": 7738
+        },
+        "url": "https://t.co/nwN669cWWV",
+        "username": "pppppzom",
+        "verified": false
+      }
+    ]
+  }
+}

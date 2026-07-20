@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077520108168335361"
+      ],
+      "media_source_tweet_id": [
+        "2077520115332161903"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2077963816529465462",
+    "created_at": "2026-07-17T03:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077963816529465462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888425378290741248",
+          "start": 3,
+          "username": "hajukashii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yZjYoJ9Pem",
+          "end": 47,
+          "expanded_url": "https://x.com/hajukashii/status/2077520115332161903/photo/1",
+          "media_key": "3_2077520108168335361",
+          "start": 24,
+          "url": "https://t.co/yZjYoJ9Pem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077963816529465462",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 162
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077520115332161903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hajukashii: Whitney https://t.co/yZjYoJ9Pem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077520108168335361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNTVh_0a0AETfpJ.jpg",
+        "width": 1562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077520108168335361"
+          ]
+        },
+        "author_id": "1888425378290741248",
+        "conversation_id": "2077520115332161903",
+        "created_at": "2026-07-15T22:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T23:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077520115332161903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZjYoJ9Pem",
+              "end": 31,
+              "expanded_url": "https://x.com/hajukashii/status/2077520115332161903/photo/1",
+              "media_key": "3_2077520108168335361",
+              "start": 8,
+              "url": "https://t.co/yZjYoJ9Pem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077520115332161903",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 6825,
+          "like_count": 975,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "Whitney https://t.co/yZjYoJ9Pem"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077520108168335361"
+          ],
+          "media_source_tweet_id": [
+            "2077520115332161903"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2077963816529465462",
+        "created_at": "2026-07-17T03:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077963816529465462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888425378290741248",
+              "start": 3,
+              "username": "hajukashii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZjYoJ9Pem",
+              "end": 47,
+              "expanded_url": "https://x.com/hajukashii/status/2077520115332161903/photo/1",
+              "media_key": "3_2077520108168335361",
+              "start": 24,
+              "url": "https://t.co/yZjYoJ9Pem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077963816529465462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 162
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077520115332161903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hajukashii: Whitney https://t.co/yZjYoJ9Pem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 220,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 869
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:11:30.000Z",
+        "description": "20 | miserable visual art student | 🔞sometimes | NO REPOST | https://t.co/AA3tLdTnVO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hajukashii.carrd.co",
+                "end": 84,
+                "expanded_url": "http://hajukashii.carrd.co",
+                "start": 61,
+                "url": "https://t.co/AA3tLdTnVO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hajukashii.straw.page",
+                "end": 23,
+                "expanded_url": "http://hajukashii.straw.page",
+                "start": 0,
+                "url": "https://t.co/4hdBE4qSCx"
+              }
+            ]
+          }
+        },
+        "id": "1888425378290741248",
+        "location": "170",
+        "name": "Jukin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976333821877551105/ctdXIAXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7868,
+          "following_count": 159,
+          "like_count": 9019,
+          "listed_count": 7,
+          "media_count": 331,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/4hdBE4qSCx",
+        "username": "hajukashii",
+        "verified": false
+      }
+    ]
+  }
+}

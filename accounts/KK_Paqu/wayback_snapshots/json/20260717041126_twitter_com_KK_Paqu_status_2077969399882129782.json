@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077782689206407168"
+      ],
+      "media_source_tweet_id": [
+        "2077782694357004482"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2077969399882129782",
+    "created_at": "2026-07-17T04:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077969399882129782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2040449380587540480",
+          "start": 3,
+          "username": "GIRAL__88888888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IkHoC4zlom",
+          "end": 81,
+          "expanded_url": "https://x.com/GIRAL__88888888/status/2077782694357004482/photo/1",
+          "media_key": "3_2077782689206407168",
+          "start": 58,
+          "url": "https://t.co/IkHoC4zlom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077969399882129782",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077782694357004482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GIRAL__88888888: 이거 군가가 채색 해준 것 도 있는데 갑자기 자랑 하고 싶어짐😋😋 https://t.co/IkHoC4zlom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2077782689206407168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXEWOaakAAmqS6.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077782689206407168"
+          ]
+        },
+        "author_id": "2040449380587540480",
+        "conversation_id": "2077782694357004482",
+        "created_at": "2026-07-16T15:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077782694357004482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IkHoC4zlom",
+              "end": 60,
+              "expanded_url": "https://x.com/GIRAL__88888888/status/2077782694357004482/photo/1",
+              "media_key": "3_2077782689206407168",
+              "start": 37,
+              "url": "https://t.co/IkHoC4zlom"
+            },
+            {
+              "display_url": "x.com/GIRAL__8888888…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/GIRAL__88888888/status/2074144124576633116",
+              "start": 61,
+              "url": "https://t.co/30cfwEB1Wt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077782694357004482",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1145,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074144124576633116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "이거 군가가 채색 해준 것 도 있는데 갑자기 자랑 하고 싶어짐😋😋 https://t.co/IkHoC4zlom https://t.co/30cfwEB1Wt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077782689206407168"
+          ],
+          "media_source_tweet_id": [
+            "2077782694357004482"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2077969399882129782",
+        "created_at": "2026-07-17T04:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077969399882129782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2040449380587540480",
+              "start": 3,
+              "username": "GIRAL__88888888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IkHoC4zlom",
+              "end": 81,
+              "expanded_url": "https://x.com/GIRAL__88888888/status/2077782694357004482/photo/1",
+              "media_key": "3_2077782689206407168",
+              "start": 58,
+              "url": "https://t.co/IkHoC4zlom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077969399882129782",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077782694357004482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GIRAL__88888888: 이거 군가가 채색 해준 것 도 있는데 갑자기 자랑 하고 싶어짐😋😋 https://t.co/IkHoC4zlom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 220,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T15:20:35.000Z",
+        "description": "구독합니다 / 편하게 공팔이라 불러주세요",
+        "id": "2040449380587540480",
+        "name": "0.8",
+        "pinned_tweet_id": "2050566820911063336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054134653305700352/p_B3OZlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 44,
+          "like_count": 1416,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "GIRAL__88888888",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077835251481563136"
+      ],
+      "media_source_tweet_id": [
+        "2077835257118699876"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2078171796218781941",
+    "created_at": "2026-07-17T17:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078171796218781941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 30,
+          "tag": "chainsawman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662154787427581979",
+          "start": 3,
+          "username": "wischkaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1cwnZ4Wb6",
+          "end": 66,
+          "expanded_url": "https://x.com/wischkaa/status/2077835257118699876/photo/1",
+          "media_key": "3_2077835251481563136",
+          "start": 43,
+          "url": "https://t.co/g1cwnZ4Wb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078171796218781941",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077835257118699876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wischkaa: I like two guys #chainsawman https://t.co/g1cwnZ4Wb6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1390,
+        "media_key": "3_2077835251481563136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNX0JwJX0AAmyE9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077835251481563136"
+          ]
+        },
+        "author_id": "1662154787427581979",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2077835257118699876",
+        "created_at": "2026-07-16T19:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077835257118699876"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1cwnZ4Wb6",
+              "end": 52,
+              "expanded_url": "https://x.com/wischkaa/status/2077835257118699876/photo/1",
+              "media_key": "3_2077835251481563136",
+              "start": 29,
+              "url": "https://t.co/g1cwnZ4Wb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077835257118699876",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2385,
+          "impression_count": 540126,
+          "like_count": 18584,
+          "quote_count": 64,
+          "reply_count": 33,
+          "retweet_count": 2110
+        },
+        "reply_settings": "everyone",
+        "text": "I like two guys #chainsawman https://t.co/g1cwnZ4Wb6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077835251481563136"
+          ],
+          "media_source_tweet_id": [
+            "2077835257118699876"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2078171796218781941",
+        "created_at": "2026-07-17T17:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078171796218781941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "chainsawman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662154787427581979",
+              "start": 3,
+              "username": "wischkaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1cwnZ4Wb6",
+              "end": 66,
+              "expanded_url": "https://x.com/wischkaa/status/2077835257118699876/photo/1",
+              "media_key": "3_2077835251481563136",
+              "start": 43,
+              "url": "https://t.co/g1cwnZ4Wb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078171796218781941",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077835257118699876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wischkaa: I like two guys #chainsawman https://t.co/g1cwnZ4Wb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 221,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 890
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T17:52:52.000Z",
+        "description": "University Student in Fine Arts • 24/7 tired • Please don’t trace/copy/steal my art • pfp by @rinneKO_art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 93,
+                "username": "rinneKO_art"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/wischkaa?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/wischkaa?igsh=MXBsbnJkeWVwanQxdw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ktckiBA7Az"
+              }
+            ]
+          }
+        },
+        "id": "1662154787427581979",
+        "name": "Wischkaa",
+        "pinned_tweet_id": "1895555410255659333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008980198490775552/JEzE4Ghs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11843,
+          "following_count": 272,
+          "like_count": 65859,
+          "listed_count": 24,
+          "media_count": 561,
+          "tweet_count": 12553
+        },
+        "url": "https://t.co/ktckiBA7Az",
+        "username": "wischkaa",
+        "verified": false
+      }
+    ]
+  }
+}

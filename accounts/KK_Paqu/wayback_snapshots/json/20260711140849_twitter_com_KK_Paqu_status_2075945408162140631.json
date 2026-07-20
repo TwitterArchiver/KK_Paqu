@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074276798108418048"
+      ],
+      "media_source_tweet_id": [
+        "2074276801854009811"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2075945408162140631",
+    "created_at": "2026-07-11T14:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075945408162140631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1889489167547244548",
+          "start": 3,
+          "username": "Theliving_deadd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/11HUj16THf",
+          "end": 78,
+          "expanded_url": "https://x.com/Theliving_deadd/status/2074276801854009811/photo/1",
+          "media_key": "3_2074276798108418048",
+          "start": 55,
+          "url": "https://t.co/11HUj16THf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075945408162140631",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074276801854009811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Theliving_deadd: El estado en el que me encuentro: https://t.co/11HUj16THf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_2074276798108418048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlPwgUWQAAxuJG.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074276798108418048"
+          ],
+          "media_source_tweet_id": [
+            "2074276801854009811"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2075945408162140631",
+        "created_at": "2026-07-11T14:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075945408162140631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1889489167547244548",
+              "start": 3,
+              "username": "Theliving_deadd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/11HUj16THf",
+              "end": 78,
+              "expanded_url": "https://x.com/Theliving_deadd/status/2074276801854009811/photo/1",
+              "media_key": "3_2074276798108418048",
+              "start": 55,
+              "url": "https://t.co/11HUj16THf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075945408162140631",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074276801854009811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Theliving_deadd: El estado en el que me encuentro: https://t.co/11HUj16THf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074276798108418048"
+          ]
+        },
+        "author_id": "1889489167547244548",
+        "conversation_id": "2074276801854009811",
+        "created_at": "2026-07-06T23:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074276801854009811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/11HUj16THf",
+              "end": 57,
+              "expanded_url": "https://x.com/Theliving_deadd/status/2074276801854009811/photo/1",
+              "media_key": "3_2074276798108418048",
+              "start": 34,
+              "url": "https://t.co/11HUj16THf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074276801854009811",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 74438,
+          "like_count": 9244,
+          "quote_count": 36,
+          "reply_count": 12,
+          "retweet_count": 3131
+        },
+        "reply_settings": "everyone",
+        "text": "El estado en el que me encuentro: https://t.co/11HUj16THf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 219,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T01:38:30.000Z",
+        "description": "呪 Eating corpses in the cemetery 死\nSakuko is a  グール  ｡ﾟ(ﾟ´ω｀ﾟ)ﾟ｡\nSOY HOMBRE!",
+        "id": "1889489167547244548",
+        "location": "Hell",
+        "name": "グール 🥩🦴🍴",
+        "pinned_tweet_id": "1938598322136027444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005003832971943936/xrlnngIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 532,
+          "like_count": 12389,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 3181
+        },
+        "url": "",
+        "username": "Theliving_deadd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078135536473038848"
+      ],
+      "media_source_tweet_id": [
+        "2078135545750773837"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2078148419655459198",
+    "created_at": "2026-07-17T16:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078148419655459198"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "art"
+        },
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "kylar"
+        },
+        {
+          "end": 43,
+          "start": 29,
+          "tag": "kylartheloner"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "dol"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1990492227223883776",
+          "start": 3,
+          "username": "zhuhlya_art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BBWzEHQVYA",
+          "end": 72,
+          "expanded_url": "https://x.com/zhuhlya_art/status/2078135545750773837/photo/1",
+          "media_key": "3_2078135536473038848",
+          "start": 49,
+          "url": "https://t.co/BBWzEHQVYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078148419655459198",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078135545750773837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhuhlya_art: #art #kylar #kylartheloner #dol https://t.co/BBWzEHQVYA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_2078135536473038848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcFQo6XYAAm0f7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078135536473038848"
+          ]
+        },
+        "author_id": "1990492227223883776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2078135545750773837",
+        "created_at": "2026-07-17T15:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078135545750773837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "art"
+            },
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "kylar"
+            },
+            {
+              "end": 26,
+              "start": 12,
+              "tag": "kylartheloner"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "dol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBWzEHQVYA",
+              "end": 55,
+              "expanded_url": "https://x.com/zhuhlya_art/status/2078135545750773837/photo/1",
+              "media_key": "3_2078135536473038848",
+              "start": 32,
+              "url": "https://t.co/BBWzEHQVYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078135545750773837",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 1131,
+          "like_count": 253,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "#art #kylar #kylartheloner #dol https://t.co/BBWzEHQVYA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078135536473038848"
+          ],
+          "media_source_tweet_id": [
+            "2078135545750773837"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2078148419655459198",
+        "created_at": "2026-07-17T16:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078148419655459198"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "art"
+            },
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "kylar"
+            },
+            {
+              "end": 43,
+              "start": 29,
+              "tag": "kylartheloner"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "dol"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1990492227223883776",
+              "start": 3,
+              "username": "zhuhlya_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBWzEHQVYA",
+              "end": 72,
+              "expanded_url": "https://x.com/zhuhlya_art/status/2078135545750773837/photo/1",
+              "media_key": "3_2078135536473038848",
+              "start": 49,
+              "url": "https://t.co/BBWzEHQVYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078148419655459198",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078135545750773837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhuhlya_art: #art #kylar #kylartheloner #dol https://t.co/BBWzEHQVYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 221,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 885
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T18:48:30.000Z",
+        "description": "Telegram: zhuhlyaart | TikTok: zhuhlya_of | Inst: zhuhlyaart      Commissions — ❌",
+        "id": "1990492227223883776",
+        "name": "zhuhlya",
+        "pinned_tweet_id": "2044183252278157409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990492328092389376/4aJFme33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5856,
+          "following_count": 36,
+          "like_count": 1530,
+          "listed_count": 8,
+          "media_count": 121,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "zhuhlya_art",
+        "verified": false
+      }
+    ]
+  }
+}

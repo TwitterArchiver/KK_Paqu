@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075944782770094080"
+      ],
+      "media_source_tweet_id": [
+        "2075944791381098867"
+      ]
+    },
+    "author_id": "1733217384050384896",
+    "conversation_id": "2076359399246082344",
+    "created_at": "2026-07-12T17:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076359399246082344"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "dol"
+        },
+        {
+          "end": 37,
+          "start": 20,
+          "tag": "degreesoflewdity"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1216232050233159680",
+          "start": 3,
+          "username": "MurariusS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JsuBz8X8OH",
+          "end": 61,
+          "expanded_url": "https://x.com/MurariusS/status/2075944791381098867/photo/1",
+          "media_key": "3_2075944782770094080",
+          "start": 38,
+          "url": "https://t.co/JsuBz8X8OH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076359399246082344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 712
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075944791381098867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MurariusS: #dol #degreesoflewdity https://t.co/JsuBz8X8OH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_2075944782770094080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM88x_ZWQAA9NXK.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075944782770094080"
+          ],
+          "media_source_tweet_id": [
+            "2075944791381098867"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2076359399246082344",
+        "created_at": "2026-07-12T17:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076359399246082344"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "dol"
+            },
+            {
+              "end": 37,
+              "start": 20,
+              "tag": "degreesoflewdity"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1216232050233159680",
+              "start": 3,
+              "username": "MurariusS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsuBz8X8OH",
+              "end": 61,
+              "expanded_url": "https://x.com/MurariusS/status/2075944791381098867/photo/1",
+              "media_key": "3_2075944782770094080",
+              "start": 38,
+              "url": "https://t.co/JsuBz8X8OH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076359399246082344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 712
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075944791381098867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MurariusS: #dol #degreesoflewdity https://t.co/JsuBz8X8OH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075944782770094080"
+          ]
+        },
+        "author_id": "1216232050233159680",
+        "conversation_id": "2075944791381098867",
+        "created_at": "2026-07-11T14:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075944791381098867"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "dol"
+            },
+            {
+              "end": 22,
+              "start": 5,
+              "tag": "degreesoflewdity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsuBz8X8OH",
+              "end": 46,
+              "expanded_url": "https://x.com/MurariusS/status/2075944791381098867/photo/1",
+              "media_key": "3_2075944782770094080",
+              "start": 23,
+              "url": "https://t.co/JsuBz8X8OH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075944791381098867",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 758,
+          "impression_count": 31996,
+          "like_count": 5168,
+          "quote_count": 13,
+          "reply_count": 12,
+          "retweet_count": 712
+        },
+        "reply_settings": "everyone",
+        "text": "#dol #degreesoflewdity https://t.co/JsuBz8X8OH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 218,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 830
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-12T05:35:15.000Z",
+        "description": "comms closed",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mrrsinfo.carrd.co",
+                "end": 23,
+                "expanded_url": "https://mrrsinfo.carrd.co",
+                "start": 0,
+                "url": "https://t.co/4DKUzvboC7"
+              }
+            ]
+          }
+        },
+        "id": "1216232050233159680",
+        "name": "mrrs⛪️",
+        "pinned_tweet_id": "2027736127952617751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013597155697610752/wmiaOvjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24874,
+          "following_count": 290,
+          "like_count": 10673,
+          "listed_count": 25,
+          "media_count": 497,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/4DKUzvboC7",
+        "username": "MurariusS",
+        "verified": false
+      }
+    ]
+  }
+}
