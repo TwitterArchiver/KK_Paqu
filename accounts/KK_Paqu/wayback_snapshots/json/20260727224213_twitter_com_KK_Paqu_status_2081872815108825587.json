@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1733217384050384896",
+    "conversation_id": "2081843250063659074",
+    "created_at": "2026-07-27T22:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T23:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081872815108825587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081872815108825587",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081843250063659074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric 拥抱你 我的账号被封禁了 你还好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2081843250063659074",
+        "created_at": "2026-07-27T22:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081872815108825587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081872815108825587",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081843250063659074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric 拥抱你 我的账号被封禁了 你还好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "conversation_id": "2081843250063659074",
+        "created_at": "2026-07-27T20:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081843250063659074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081843250063659074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想再这样了，我不想再这样了, 筋疲力尽，精疲力竭, 我想死，这样就能休息了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 229,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "非典型。不稳定。宅男。我既不是天使也不是恶魔。经常有人告诉我，我是纯洁的。我温柔又善良。AuDHD, autistic, ptsd, aroace, 感官过度敏感。我与你分享我的情绪状态。",
+        "id": "1980396569363935232",
+        "name": "小欢乐",
+        "pinned_tweet_id": "2063082220898664938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066640831943933953/zdzZNx3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 108,
+          "like_count": 17076,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 4625
+        },
+        "url": "",
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}
